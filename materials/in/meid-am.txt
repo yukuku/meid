@@ -1680,11 +1680,13 @@ tr silvi
 edit Jane 20140910
 edit yuku 20140912
 #publish 20140912
+edit PATCHTEXT-5065555631407104 20140912
+#publish 20140930
 
 *a
 Benar dan juga membenarkan orang yang percaya. [Roma 3:26]
 *n
-Dengan dibenarkan oleh iman, kita memiliki perdamaian dengan Allah. Hati nurani tidak lagi menyalahkan. Penghakiman kini memihak pendosa alih-alih melawannya. Kenangan menoleh ke belakang dengan kesedihan mendalam akan dosa-dosa masa lampau, tetapi tanpa ketakutan akan hukuman yang akan datang; karena Kristus telah membayar hutang umat-Nya hingga titik terakhir, dan menerima bukti ilahi; dan kecuali Allah mungkar, meminta bayaran ganda untuk setiap hutang, jiwa yang untuknya Yesus telah mati sebagai pengganti tidak ada yang akan dilemparkan ke dalam neraka. Sepertinya kodrat kita telah dicelikkan untuk percaya bahwa Allah adil; kita merasa memang seharusnya demikian, dan pada awalnya hal ini memberikan kita ketakutan; tetapi bukankah menakjubkan bahwa keyakinan yang sama — bahwa Allah adalah adil — kemudian menjadi pilar keyakinan dan damai kita! Jika Allah adil, saya, seorang pendosa, seorang diri dan tanpa seorang pengganti, harus dihukum; tetapi Yesus menggantikanku dan Dia dihukum demi saya; dan sekarang, jika Allah adil, saya, seorang pendosa, berdiri dalam Kristus, tidak akan bisa dihukum. Allah harus mengubah kodrat-Nya sebelum ada kemungkinan untuk satu saja jiwa yang telah digantikan Yesus dapat merasakan cambuk hukum. Oleh karena itu, dengan Yesus yang telah menggantikan orang percaya — yang telah menerima keseluruhan murka ilahi yang seharusnya dijatuhkan atas umat-Nya yang berdosa, orang percaya dapat berteriak dengan kemenangan yang mulia, "Siapakah yang akan menggugat orang-orang pilihan Allah?" [Roma 8:33] Bukan Allah, karena Ia telah membenarkan; bukan pula Kristus, karena Ia telah mati, "bahkan lebih lagi: yang telah bangkit." [Roma 8:34] Pengharapanku hidup bukan karena saya bukan seorang pendosa, tetapi karena saya seorang pendosa yang baginya Kristus mati; saya percaya bukan karena saya kudus, tetapi karena sebagai makhluk tidak kudus, <i>Ia</i> adalah kebenaranku. Imanku bersandar bukan pada siapa saya, atau saya akan sebagai apa, atau perasaan atau pengetahuan saya, tetapi dalam siapa Kristus, dalam apa yang telah Ia lakukan, dan apa yang sedang Ia kerjakan bagi saya sekarang. Di atas singa keadilan, putri harapan bertunggang selayaknya ratu.
+Dengan dibenarkan oleh iman, kita memiliki perdamaian dengan Allah. Hati nurani tidak lagi menyalahkan. Penghakiman kini memihak pendosa alih-alih melawannya. Kenangan menoleh ke belakang dengan kesedihan mendalam akan dosa-dosa masa lampau, tetapi tanpa ketakutan akan hukuman yang akan datang; karena Kristus telah membayar hutang umat-Nya hingga titik terakhir, dan menerima bukti ilahi; dan kecuali Allah mungkar, meminta bayaran ganda untuk setiap hutang, jiwa yang untuknya Yesus telah mati sebagai pengganti tidak ada yang akan dilemparkan ke dalam neraka. Sepertinya kodrat kita telah dicelikkan untuk percaya bahwa Allah adil; kita merasa memang seharusnya demikian, dan pada awalnya hal ini memberikan kita ketakutan; tetapi bukankah menakjubkan bahwa keyakinan yang sama — bahwa Allah adalah adil — kemudian menjadi pilar keyakinan dan damai kita! Jika Allah adil, saya, seorang pendosa, seorang diri dan tanpa seorang pengganti, harus dihukum; tetapi Yesus menggantikanku dan Dia dihukum demi saya; dan sekarang, jika Allah adil, saya, seorang pendosa, berdiri dalam Kristus, tidak akan bisa dihukum. Allah harus mengubah kodrat-Nya sebelum ada kemungkinan untuk satu saja jiwa yang telah digantikan Yesus dapat merasakan cambuk hukum. Oleh karena itu, dengan Yesus yang telah menggantikan orang percaya — yang telah menerima keseluruhan murka ilahi yang seharusnya dijatuhkan atas umat-Nya yang berdosa, orang percaya dapat berteriak dengan kemenangan yang mulia, "Siapakah yang akan menggugat orang-orang pilihan Allah?" [Roma 8:33] Bukan Allah, karena Ia telah membenarkan; bukan pula Kristus, karena Ia telah mati, "bahkan lebih lagi: yang telah bangkit." [Roma 8:34] Pengharapanku hidup bukan karena saya bukan seorang pendosa, tetapi karena saya seorang pendosa yang baginya Kristus mati; saya percaya bukan karena saya kudus, tetapi karena sebagai makhluk tidak kudus, <i>Ia</i> adalah kebenaranku. Imanku bersandar bukan pada siapa saya, atau saya akan sebagai apa, atau perasaan atau pengetahuan saya, tetapi dalam siapa Kristus, dalam apa yang telah Ia lakukan, dan apa yang sedang Ia kerjakan bagi saya sekarang. Di atas singa keadilan, putri harapan bertunggang layaknya ratu.
 
 ===
 
@@ -2177,4 +2179,496 @@ Ketiga hal ini tetaplah kekuatan dan penopangku.”
 Kalau Yesus bertindak mengangkatku kepada kemuliaan, dan kalau Bapa berjanji Ia akan memberikan aku kepada sang Putra untuk menjadi bagian dari pahala yang tak terhingga atas kerja keras jiwa-Nya; maka, hai jiwaku, selama Allah sendiri setia, selama Yesus masih adalah kebenaran, engkau aman. Ketik Daud menari di hadapan tabut, dia memberi tahu Mikhal bahwa pemilihanlah yang membuatnya melakukan hal itu [2 Samuel 6:21]. Datanglah, hai jiwaku, bergembiralah di hadapan Allah anugerah dan biarkan hatimu melompat riang gembira.
 
 ===
+
+mmdd 1029
+tr yuku
+edit Jaya 20140930
+#publish 20140930
+
+*a
+Karena itu berdoalah demikian: Bapa kami yang di sorga, dst. [Matius 6:9]
+*n
+Doa ini memulai di mana semua doa yang sejati harus bermula, dengan semangat <i>adopsi</i>, "Bapa kami." Tidak ada doa yang diterima sampai kita dapat berkata, "Aku akan bangkit dan pergi kepada Bapaku." [Lukas 15:18] Semangat yang seperti anak-anak ini lekas menyadari keagungan Bapa "yang di sorga," dan menuju kepada <i>pemujaan yang saleh</i>, "Dikuduskanlah nama-Mu." Celoteh anak, "ya Abba, ya Bapa!" [Roma 8:15] bertumbuh menjadi kerub yang berseru, "Kudus, Kudus, Kudus." [Yesaya 6:3] Selangkah saja dari penyembahan yang girang kepada <i>semangat pengabaran injil yang berkilau</i>, yang pasti tumbuh dari kasih persaudaraan dan pemujaan yang khusyuk— "Datanglah Kerajaan-Mu, jadilah kehendak-Mu di bumi seperti di sorga." Berikutnya diikuti <i>ekspresi ketergantungan yang tulus</i> kepada Allah— "Berikanlah kami pada hari ini makanan kami yang secukupnya." Setelah dicerahkan lebih oleh Roh, dia sadar bukan saja dia bergantung, tapi juga berdosa, maka dia <i>memohon belas kasihan</i>, "Ampunilah kami akan kesalahan kami, seperti kami juga mengampuni orang yang bersalah kepada kami:" dan setelah diampuni, kebenaran Kristus diperhitungkan kepadanya, dan mengetahui dirinya diterima Allah, dia dengan rendah hati <i>meminta kekudusan dengan tak putus-putusnya</i>, "Janganlah membawa kami ke dalam pencobaan, tetapi lepaskanlah kami dari pada yang jahat," yaitu pengudusan dalam bentuk negatif dan positifnya. Sebagai hasil dari semuanya ini, lalu diikuti <i>pengakuan pujian yang berkemenangan</i>, "Engkaulah yang empunya Kerajaan dan kuasa dan kemuliaan sampai selama-lamanya. Amin." Kita bersuka sebab Raja <i>kita</i> memerintah dalam pemeliharaan-Nya dan akan memerintah dalam kasih karunia, dari sungai Efrat sampai ke ujung-ujung bumi [Zakharia 9:10], pemerintahan-Nya tidak akan berkesudahan [Lukas 1:33]. Oleh sebab itu, mulai dari kesadaran diangkat menjadi anak Allah, hingga persekutuan dengan Tuhan pemerintah kita, model doa yang pendek ini memimpin jiwa kita. Tuhan, ajarlah kami berdoa. [Lukas 11:1]
+
+===
+
+mmdd 1030
+tr pipin
+edit yuku 20140930
+#publish 20140930
+
+*a
+Aku mau bersyukur kepada TUHAN. [Mazmur 9:1]
+*n
+Doa yang terjawab haruslah selalu diikuti dengan puji syukur; seperti halnya kabut rasa syukur bumi naik saat matahari kasih surga menghangatkan tanah. Sudahkah Tuhan bermurah hati kepadamu, dan menyendengkan telinga-Nya kepada suara permohonanmu? Maka pujilah Dia selama engkau hidup. Biarlah buah yang matang jatuh ke atas tanah subur yang darinya buah itu sudah mendapatkan hidup. Jangan meniadakan lagu untuk-Nya, yang telah menjawab doamu dan memberikan kepadamu apa yang diinginkan hatimu [Mazmur 37:4]. Berdiam diri atas belas kasih Allah berarti mendatangkan dosa tidak tahu berterima kasih; yang sama kejamnya dengan kelakuan kesembilan penderita kusta, yang setelah disembuhkan dari kustanya, tidak kembali untuk berterima kasih kepada Tuhan yang menyembuhkan [Lukas 17:17-18]. Lupa mengucapkan puji syukur kepada Allah berarti menolak kebaikan bagi diri kita sendiri; karena puji syukur, sama seperti halnya doa, adalah satu sarana yang hebat untuk meningkatkan pertumbuhan hidup rohani kita. Puji syukur membantu kita menyingkirkan beban-beban kita, membangkitkan harapan, meningkatkan iman kita. Puji syukur adalah latihan yang menyehatkan dan menyegarkan, yang akan menghidupkan denyut nadi orang percaya, dan memberanikan dirinya dalam usaha-usaha baru untuk melayani Tuannya. Memuji Allah atas kemurahan yang diterima juga merupakan jalan untuk menguntungkan sesama kita; "biarlah orang-orang yang rendah hati mendengarnya dan bersukacita." [Mazmur 34:2] Mereka yang berada dalam situasi yang mirip akan ikut merasakan penghiburan jika kita bisa mengatakan, "Muliakanlah TUHAN bersama-sama dengan aku, marilah kita bersama-sama memasyhurkan nama-Nya! [Mazmur 34:3] Orang yang tertindas ini berseru, dan TUHAN mendengar." [Mazmur 34:6] Hati yang lemah akan dikuatkan, dan orang-orang suci yang terkulai akan dibangkitkan saat mereka mendengar "lagu pembebasan" kita. Keraguan dan ketakutan mereka akan ditegur, selagi kita mengajar dan menegur seorang akan yang lain sambil menyanyikan mazmur, dan puji-pujian dan nyanyian rohani. [Kolose 3:16] Mereka juga akan "menyanyi tentang jalan-jalan TUHAN," [Mazmur 138:5] ketika mereka mendengar kita mengagungkan nama-Nya yang kudus. Memuji Allah adalah tugas orang Kristen yang paling surgawi. Para malaikat tidak berdoa, tetapi mereka tak henti-henti menaikkan pujian siang dan malam; dan yang ditebus, memakai jubah putih, dan daun-daun palem di tangan mereka, tidak pernah lelah menyanyikan nyanyian baru, "Layaklah Sang Anak Domba!" [Wahyu 5:12]
+
+===
+
+mmdd 1031
+tr pipin
+edit yuku 20141001
+#publish 20141001
+
+*a
+Akulah yang mengenal engkau di padang gurun, di tanah yang gersang. [Hosea 13:5]
+*n
+Ya, Tuhan, sesungguhnya Engkau telah mengenalku dalam <i>kejatuhanku</i>, dan Engkau bahkan memilih aku untuk-Mu. Ketika aku menjijikkan dan membenci diri, Engkau menerimaku sebagai anak-Mu, dan Engkau memuaskan hasrat dan keperluanku. Terpujilah nama-Mu selama-lamanya atas belas kasih yang cuma-cuma, kaya, dan berlimpah. Sejak itu, <i>pengalamanku di dalam</i> sering kali merupakan padang gurun; namun Engkau tetap memilikiku sebagai kekasih-Mu, dan menuangkanku aliran kasih dan anugerah untuk membuatku gembira, dan menjadikanku berbuah. Bahkan, ketika <i>keadaanku di luar</i> adalah yang terburuk, dan aku keluyuran di tanah gersang, manis kehadiran-Mu telah melipurku. Manusia tidak mengenalku ketika cemooh menanti aku, tetapi Engkau telah mengenal jiwaku dalam kesukaran, sebab penderitaan apapun tidak dapat mengurangi kilau kasih-Mu. Tuhan yang maha pemurah, aku membesarkan Engkau atas segala kesetiaan-Mu kepadaku dalam masa-masa ujian, dan aku menyesalkan diriku yang sewaktu-waktu melupakan Engkau dan bertinggi hati, padahal segalanya kumiliki karena kelembutan dan kasih-Mu. Kasihanilah hamba-Mu dalam hal ini!
+*n
+Hai jiwaku, jikalau Yesus memerhatikanmu dalam keadaanmu yang rendah, pastikan engkau memiliki Dia dan prinsip-prinsip-Nya saat ini ketika engkau berada dalam kemakmuran. Jangan engkau ditinggikan oleh kesuksesan duniawi sampai engkau malu akan kebenaran itu atau malu akan gereja miskin di mana engkau berjemaat. Ikutlah Yesus ke dalam padang gurun: pikullah salib bersama Dia ketika nyala penganiayaan semakin panas. Dia memilikimu, oh jiwaku, dalam miskin dan aibmu—jangan sampai engkau berbuat khianat dengan bersikap malu akan Dia. Semoga aku semakin merasa hina atas pemikiran malu akan Kekasihku yang terbaik! Yesus, jiwaku melekat pada-Mu.
+*p
+"Aku berpaling kepada-Mu dalam siang terang,
+Pula dalam malam gelisah,
+Engkau paling cemerlang di antara segala yang cemerlang!
+Engkau terelok di antara yang elok!"
+
+===
+
+mmdd 1101
+tr rei
+edit yuku 20141008
+#publish 20141010
+
+*a
+Jemaat di rumahmu. [Filemon 1:2] [1]
+*n
+Apakah ada Gereja di rumah ini? Apakah orang tua, anak-anak, teman-teman, para pembantu, semua merupakan anggotanya? atau beberapa masih belum bertobat? Mari kita diam sejenak dan balik pertanyaan tadi—<i>Apakah saya anggota Gereja rumah ini?</i> Betapa hati ayah melompat dengan suka cita, dan mata ibu mengalirkan air mata kudus jika yang tertua sampai termuda semuanya diselamatkan! Mari kita berdoa untuk rahmat yang besar ini hingga Tuhan memberikannya kepada kita. Mungkin objek pengharapan Filemon yang paling diinginkannya adalah agar seisi rumahnya diselamatkan; tapi hal itu pada awalnya tidak diberikan kepadanya secara utuh. Dia memiliki hamba yang jahat, Onesimus, yang setelah bersalah kepada Filemon, lari dari pekerjaannya. Doa tuannya mengikutinya, dan akhirnya, sesuai kehendak Allah, Onesimus dipimpin untuk mendengar Paulus berkhotbah; hatinya tersentuh, dan dia kembali ke Filemon, dan bukan hanya untuk menjadi hamba yang setia, tapi sebagai saudara tercinta, menambahkan seorang anggota lagi kepada Gereja di rumah Filemon. Apakah ada seorang pembantu yang belum bertobat atau anak yang tidak hadir pagi ini? Mari membuat permohonan khusus agar, saat mereka kembali pulang ke rumah, hati semua orang bersuka dengan kabar baik tentang apa yang sudah diperbuat oleh kasih karunia! Adakah yang hadir pagi ini? Hendaklah dia turut mengambil bagian dalam permohonan yang sungguh-sungguh ini.
+*n
+Jika ada Gereja semacam itu di rumah kita, mari kita mengaturnya dengan baik, dan membiasakan semua perilaku terjadi seperti di depan penglihatan Allah. Mari kita bergerak dalam urusan kehidupan sehari-hari dengan kesucian, ketekunan, kebaikan, dan integritas yang sudah dipelajari. Lebih banyak yang dituntut dari sebuah Gereja daripada rumah tangga biasa; oleh karena itu, ibadah keluarga harus lebih sungguh dan murni; kasih internal harus lebih hangat dan tak terputus, dan perilaku eksternal harus lebih disucikan dan menyerupai Kristus. Kita tidak perlu khawatir bahwa sedikitnya jumlah kita akan membuat kita tidak terdaftar dalam daftar Gereja, karena gereja keluarga sudah didaftarkan Roh Kudus dalam kitab kenangan yang diinspirasikan-Nya. Sebagai salah satu Gereja mari kita sekarang mendekat kepada Sang Kepala Gereja universal yang esa, dan marilah kita memohon kepada-Nya untuk memberi kita kasih karunia untuk bercahaya di hadapan orang-orang bagi kemuliaan nama-Nya.
+*f
+[1] Versi Bahasa Inggris untuk jemaat adalah church, yaitu gereja.
+
+===
+
+mmdd 1102
+tr yuku
+edit jaya 20141009
+#publish 20141010
+
+*a
+Aku, TUHAN, tidak berubah. [Maleakhi 3:6]
+*n
+Baik adanya bagi kita jika, di antara perubahan-perubahan dalam hidup, ada Seorang yang terhadapnya perubahan tidak bekerja, Seorang yang hati-Nya tidak pernah berubah, dan yang pada alis mata-Nya perubahan tidak dapat membuatnya berkerut. Segala hal lainnya sudah berubah—segala hal sedang berubah. Mataharipun meredam seiring zaman; dunia ini menjadi tua; jejak lipatan pakaian yang usang telah terlihat; langit dan bumi harus segera berlalu; mereka akan binasa, mereka akan menjadi tua layaknya pakaian; namun ada Seorang yang satu-satunya memiliki kehidupan kekal, yang tahun-tahun-Nya tiada berakhir, dan yang dalam pribadi-Nya tidak berubah. Kebahagiaan yang dialami seorang pelaut ketika, setelah berhari-hari terombang-ambing, ia menjejakkan kakinya kembali di atas daratan yang kokoh, adalah kepuasan seorang Kristen ketika, di antara segala perubahan dalam hidup yang bergejolak ini, ia menjejakkan kaki imannya di atas kebenaran ini—"<i>Aku, TUHAN, tidak berubah.</i>"
+*n
+Kestabilan yang diberikan jangkar kepada kapal ketika pada akhirnya jangkar itu terkait kuat, seperti itulah di mana pengharapan Kristen menguatkannya ketika pengharapan itu terkait pada kebenaran yang mulia ini. Pada Allah "tidak ada perubahan atau bayangan karena pertukaran." [Yakobus 1:17] Apapun atribut Allah pada masa lampau, begitulah sekarang; baik kuasa-Nya, kebijaksanaan-Nya, keadilan-Nya, kebenaran-Nya, semuanya sama tidak berubah. Dia selamanya tempat perlindungan umat-Nya, benteng pertahanan mereka dalam hari-hari penuh kesulitan, dan Dia tetap Penolong yang pasti. Dia tidak berubah dalam kasih-Nya. Dia mencintai umat-Nya dengan "kasih yang kekal” [Yer 31:3]; Dia mengasihi mereka sekarang sebesar kasih-Nya yang dahulu, dan ketika semua hal duniawi akhirnya melebur dalam lautan api terakhir, kasih-Nya akan tetap berhiaskan embun masa mudanya. Sungguh berharga jaminan itu bahwa Dia tidak berubah! Roda pemeliharaan menggelinding, namun porosnya adalah kasih abadi.
+*p
+"Maut dan perubahan sibuk selalu,
+Manusia membusuk, dan zaman beralih;
+Namun rahmat-Nya tiada pernah berlalu;
+Allah itu hikmat, Allah itu kasih."
+
+===
+
+mmdd 1103
+tr yuku
+edit jaya 20141009
+#publish 20141010
+
+*a
+Ia sekarang berdoa. [Kisah Para Rasul 9:11]
+*n
+Doa langsung diperhatikan di surga. Saat Saulus mulai berdoa, Tuhan mendengarnya. Inilah penghiburan bagi jiwa yang tertekan namun terus berdoa. Sering kali seorang yang malang dan patah hatinya menekuk lutut, tapi hanya bisa mengungkapkan ratapannya dalam bahasa desahan dan air mata; sekalipun demikian erangan itu telah membuat semua kecapi di surga melantunkan musik; air mata itu sudah ditangkap Allah dan disimpan dalam kirbat surgawi. "Air mataku Kautaruh ke dalam kirbat-Mu," [Mazmur 56:9] menyiratkan bahwa air mata itu ditangkap begitu ia tercurah. Si pemohon, yang ketakutannya menghalangi ucapannya, akan dipahami dengan baik oleh Yang Mahatinggi. Dia mungkin melihat ke atas dengan mata yang basah; namun "doa adalah air mata yang jatuh." [1] Air mata adalah permata surga, desahan adalah bagian dari musik istana TUHAN, dan jumlahnya dihitung dengan "alunan teragung yang menjangkau Sang Mulia Yang Mahatinggi." [2] Jangan pikir doamu, betapa lemah atau gemetaran, akan diabaikan. Tangga Yakub itu luhur, tapi doa kita akan bersandar pada Malaikat perjanjian dan naik putaran tangga yang gemerlapan. Allah kita tidak hanya <i>mendengar</i> doa tapi juga <i>suka</i> mendengar doa. "Teriak orang yang tertindas tidaklah dilupakan-Nya." [Mazmur 9:13] Benar, Dia tidak mengindahkan penampilan yang agung dan kata-kata yang angkuh; Dia tidak memedulikan kebesaran dan kemegahan raja-raja; Dia tidak mendengarkan sembulan musik perang; Dia tidak memperhatikan kemenangan dan kesombongan manusia; namun di mana pun ada hati yang besar kesedihannya, atau bibir yang gemetar penuh penderitaan, atau rintihan yang dalam, atau desahan penyesalan, hati TUHAN terbuka; Dia mencatatnya dalam ingatan-Nya; Dia menaruh doa kita, seperti daun mawar di antara halaman-halaman buku kenangan-Nya, dan ketika akhirnya jilid itu dibuka, dari dalamnya bermunculan keharuman yang berharga.
+*p
+"Iman tidak meminta tanda dari langit,
+Untuk menunjukkan naiknya doa-doa yang diterima,
+Imam kita berada di tempat kudus-Nya,
+Dan menjawab dari takhta kemurahan."
+*f
+[1] <i>Prayer is the soul's sincere desire</i>. James Mont­gom­e­ry, 1818. Lirik lagu: <i>Prayer is the burden of a sigh, The falling of a tear.</i> 
+[2] <i>Ibid.</i> Lirik lagu: <i>Prayer the sublimest strains that reach the Majesty on high.</i>
+
+===
+
+mmdd 1104
+tr yuku
+edit jaya 20141009
+#publish 20141010
+
+*a
+Justru dalam kelemahanlah kuasa-Ku menjadi sempurna. [2 Korintus 12:9]
+*n
+Syarat utama untuk melayani Allah dengan kesuksesan besar, dan untuk melakukan pekerjaan Allah dengan baik dan penuh kemenangan, adalah kesadaran akan kelemahan diri kita sendiri. Ketika pejuang Allah bergerak maju dalam perang, kuat dalam tenaganya sendiri, ketika dia menyombong, "Aku tahu aku akan menang, tangan kananku sendiri dan pedang penaklukku akan mengantarkanku kepada kemenangan," kekalahan sudah di depan mata. Allah tidak maju bersama dengan manusia yang maju dalam kekuatannya sendiri. Ia yang menganggap dirinya akan menang ternyata salah perhitungan, karena "bukan dengan keperkasaan dan bukan dengan kekuatan, melainkan dengan roh-Ku, firman TUHAN semesta alam." [Zakharia 4:6] Mereka yang maju perang, mengumbar kegagahannya, akan pulang dengan spanduk kebodohannya yang terseret dalam debu dan pakaian bajanya yang ternodai aib. Mereka yang melayani Allah harus melayani-Nya dengan cara-Nya, dan dalam kekuatan-Nya, atau Dia tidak akan pernah menerima pelayanan mereka. Segala yang dikerjakan manusia, tanpa pertolongan ilahi, tidak akan diakui Allah. Buah dunia belaka Dia campakkan; Dia hanya menuai jagung yang benihnya ditabur dari surga, diairi oleh anugerah, dan dimatangkan oleh mentari kasih ilahi. Allah akan mengosongkan segala yang engkau punya sebelum Dia menaruh milik-Nya ke dalam engkau; Dia akan membersihkan lumbungmu sebelum Dia akan memenuhinya dengan gandum yang terbaik. Sungai Allah penuh air; tapi tidak satu tetes pun mengalir dari mata air duniawi. Allah dalam perang-Nya tidak menggunakan kekuatan selain kekuatan yang Dia sendiri berikan. Apakah engkau meratapi kelemahan dirimu? Teguhkanlah hatimu, karena memang harus ada kesadaran akan kelemahan diri sebelum Tuhan memberimu kemenangan. Kehampaanmu hanyalah persiapan agar dirimu diisi, dan hatimu yang muram hanyalah persiapan agar dirimu diangkat.
+*p
+"Saat aku lemah, maka kuatlah aku,
+Anugerah adalah perisaiku dan Kristuslah nyanyianku."
+
+===
+
+mmdd 1105
+tr yuku
+edit jaya 20141009
+#publish 20141010
+
+*a
+Setiap senjata yang ditempa terhadap engkau tidak akan berhasil. [Yesaya 54:17]
+*n
+Hari ini penting dalam sejarah Inggris karena dua pembebasan yang Allah berikan kepada kami. Pada hari ini rencana kaum Paus menghancurkan Rumah Parlemen terkuak, 1605.
+*p
+"Ketika untuk raja-raja kita mereka bersiap
+di dalam gua-gua sebuah jebakan berapi, 
+Dia menembakkan dari surga sinar yang tajam, 
+dan pengkhianatan yang gelap itu dibawa kepada terang. "
+*n
+Kedua, hari ini adalah peringatan akan mendaratnya Raja William III, di Torbay, yang olehnya harapan akan kekuasaan kepausan dibatalkan, dan kebebasan beragama terjamin, 1688.
+*n
+Hari ini patut dirayakan, bukan dengan pesta pora anak muda, tapi dengan kidung orang-orang kudus. Bapa-bapa Puritan dengan sungguh-sungguh menjadikan ini momen istimewa untuk bersyukur. Masih tersimpan catatan khotbah-khotbah tahunan Matthew Henry untuk hari ini. Perasaan Protestan kita, dan cinta kita akan kebebasan, harusnya membuat kita memandang perayaan ini dengan rasa syukur yang kudus. Hendaklah hati dan bibir kita berseru, "Dengan telinga kami sendiri telah kami dengar, nenek moyang kami telah menceritakan kepada kami perbuatan yang telah Kau lakukan pada zaman mereka, pada zaman purbakala." [Mazmur 44:1] Engkau sudah membuat bangsa ini rumah Injil; dan ketika musuh bangkit melawannya, Engkau melindunginya. Bantu kami mempersembahkan lagu yang berulang kali untuk penyelamatan-Mu yang berulang kali. Berikan kami lebih banyak lagi kebencian terhadap Antikristus, dan percepatlah hari kepunahan total mereka. Hingga saat itu tiba dan selamanya, kami percaya akan janji, "Setiap senjata yang ditempa terhadap engkau tidak akan berhasil." [Yesaya 54:17] Tidakkah ini seharusnya diletakkan pada hati setiap orang yang mencintai injil Yesus pada hari ini, permohonan agar doktrin palsu dijungkirbalikkan dan perluasan kebenaran ilahi? Tidakkah sudah seharusnya kita menyelidiki hati kita sendiri, dan menghalau segala pembenaran diri yang sia-sia dari kepausan yang mungkin terkandung di dalamnya?
+
+===
+
+mmdd 1106
+tr yanyanyan
+edit yuku 20141009
+#publish 20141010
+
+*a
+Aku akan mencurahkan air ke atas tanah yang haus. [Yesaya 44:3] [1]
+*n
+Saat seorang percaya jatuh ke dalam keadaan yang sedih dan terpuruk, sering kali ia mencoba untuk mengangkat kembali dirinya dengan cara menghukum dirinya sendiri dengan ketakutan yang muram dan gelap. Itu bukan cara untuk bangkit dari keterpurukan, itu hanya melanjutkan keterpurukan itu. Bagaikan merantai sayap elang agar ia dapat terbang, demikianlah keraguan meningkatkan kasih karunia kita. Bukan hukum, melainkan injillah yang pertama menyelamatkan jiwa yang mencari; dan bukanlah perbudakan hukum, melainkan kemerdekaan injillah yang dapat memulihkan orang percaya setelah dia terpuruk. Ketakutan seorang budak tidak membawa seorang penyeleweng kembali kepada Allah, tetapi rayuan kasih yang manis menarik dia ke pelukan Yesus. Apakah engkau haus akan Allah yang hidup pagi ini, dan tidak bahagia karena engkau tidak mendapatkan-Nya sebagai sukacita hatimu? Apakah engkau sudah kehilangan sukacita agamamu, dan apakah ini doamu, "Bangkitkanlah kembali padaku kegirangan karena selamat yang dari pada-Mu" [Mazmur 51:12]? Apakah engkau menyadari juga gersangnya dirimu, seperti tanah yang kering; bahwa engkau tidak berbuah bagi Allah, yang mana Allah berhak atasnya; bahwa engkau tidak terlalu berguna dalam Gereja, atau dalam dunia ini, seperti yang diharapkan hatimu? Maka ini tepatnya janji yang engkau perlukan, "Aku akan mencurahkan air ke atas tanah yang haus." Engkau akan menerima anugerah yang sangat engkau perlukan, dan engkau akan mendapatinya sebanyak yang engkau perlukan. Air menyegarkan orang yang haus: engkau akan disegarkan; hasratmu akan dipuaskan. Air membangunkan hidup sayuran yang tertidur: hidupmu akan dibangunkan oleh anugerah yang baru. Air membesarkan tunas dan mematangkan buah; engkau akan memiliki anugerah yang membuatmu berbuah; engkau akan dibuat berbuah dalam jalan Allah. Apapun kualitas baik yang ada dalam anugerah ilahi, engkau akan menikmatinya sepenuhnya. Engkau akan menerima semua kekayaan anugerah ilahi dengan berlimpah; engkau akan sampai basah kuyup dengan anugerah itu: dan terkadang padang rumput dibanjiri oleh ledakan air sungai, dan ladang-ladang itu berubah menjadi kolam air, begitu pula engkau — tanah yang haus akan menjadi sumber-sumber air.
+*f
+[1] Dalam KJV, <i>I will pour water upon him that is thirsty.</i> Aku akan mencurahkan air kepada dia yang haus.
+
+===
+
+mmdd 1107
+tr yanyanyan
+edit yuku 20141009
+#publish 20141010
+
+*a
+Lihat, Aku telah melukiskan engkau di telapak tangan-Ku. [Yesaya 49:16]
+*n
+Tentunya sebagian dari keheranan yang berpusat pada kata “<i>Lihat</i>,” digemparkan oleh ratapan ketidakpercayaan dari kalimat sebelumnya. Sion berkata, "TUHAN telah meninggalkan aku dan Tuhanku telah melupakan aku." [Yesaya 49:14] Betapa mengejutkannya pikiran Ilahi pada ketidakpercayaan yang jahat ini. Apa lagi yang bisa lebih mengherankan daripada ketidakpercayaan dan ketakutan yang tak beralasan dari umat yang kepadanya Allah berkenan? Kata-kata teguran Tuhan yang penuh kasih ini seharusnya membuat kita tersipu; Ia berseru, “Bagaimana mungkin Aku melupakanmu, ketika Aku sudah melukiskan engkau di telapak tangan-Ku? Betapa beraninya engkau meragukan Aku yang selalu mengingatmu, padahal tanda peringatan itu sudah ditetapkan di dalam daging-Ku sendiri?” Oh ketidakpercayaan, betapa aneh nan ajaib engkau! Kita tidak tahu mana yang lebih mengherankan, kesetiaan Allah atau ketidakpercayaan umat-Nya. Ia memenuhi janji-Nya seribu kali, dan masih saja dalam ujian selanjutnya kita lagi-lagi meragukan-Nya. Ia tidak pernah gagal ataupun mengecewakan; Ia tidak pernah merupakan sumur yang kering; Ia tidak pernah merupakan matahari yang terbenam, meteor yang lewat saja, atau uap yang meleleh; tapi tetap saja kita selalu dipenuhi dengan keraguan, dianiaya kesangsian, dan terganggu oleh ketakutan, seakan-akan Allah kita sekadar fatamorgana gurun. “Lihat,” <i>adalah kata yang dimaksudkan untuk memancing kekaguman</i>. Di sini tentunya kita memiliki tema kekaguman. Langit dan bumi pun takjub bahwa pemberontak-pemberontak bisa mendapatkan kedekatan dengan hati kasih-Nya yang tidak terhingga sampai-sampai ditulis di telapak tangan-Nya. “Aku sudah melukiskan <i>engkau</i>.” Tidak dikatakan, “namamu.” Namamu tentunya ada, tetapi itu belum semua: “Aku sudah melukiskan <i>engkau</i>.” Lihatlah betapa penuhnya perkataan itu! Aku sudah melukiskan dirimu, gambaranmu, kejadianmu, situasi-situasimu, dosa-dosamu, godaan-godaanmu, kelemahan-kelemahanmu, kebutuhan-kebutuhanmu, perbuatan-perbuatanmu; Aku sudah melukiskan engkau, semuanya tentang engkau, apapun mengenai engkau; Aku sudah menaruh engkau seluruhnya di sana. Akankah engkau mengatakan lagi bahwa Allah sudah melupakan engkau ketika Ia sudah melukiskan engkau <i>di</i> telapak tangan-Nya sendiri?
+
+===
+
+mmdd 1108
+tr yanyanyan
+edit yuku 20141009
+#publish 20141010
+
+*a
+Kamu telah menerima Kristus Yesus, Tuhan kita. [Kolose 2:6]
+*n
+Kehidupan iman diwakili oleh <i>menerima</i>—<i>sebuah perbuatan yang artinya sangat berlainan dengan layak atau pantas</i>. Perbuatan itu hanyalah menerima hadiah. Seperti bumi minum air hujan, seperti laut menerima aliran sungai-sungai, seperti malam mendapat cahaya dari bintang-bintang, kita pun, tanpa memberikan apapun, menerima anugerah Allah dengan cuma-cuma. Orang-orang kudus, menurut kodratnya, bukanlah sumur, ataupun aliran sungai, mereka sekadar penampungan air yang kepadanya air hidup mengalir; mereka adalah wadah kosong yang kepadanya Allah mencurahkan keselamatan-Nya. Konsep menerima memiliki <i>makna penyataan</i>, yaitu menjadikan suatu hal sebuah <i>realitas</i>. Seseorang tidak bisa menerima sebuah bayangan; kita menerima sesuatu yang substansial: begitu juga dengan kehidupan iman, Kristus menjadi realitas bagi kita. Ketika kita tidak beriman, Yesus hanyalah sebuah nama bagi kita—seorang yang hidup pada zaman dahulu, begitu kunonya sehingga kehidupan-Nya hanyalah sebuah sejarah bagi kita sekarang! Dengan perbuatan iman Yesus menjadi Seorang yang nyata di dalam kesadaran hati kita. Tetapi menerima juga bermakna <i>mengenggam atau memiliki</i>. Hal yang aku terima menjadi milikku: aku memperuntukkan bagiku hal yang sudah diberikan. Ketika aku menerima Yesus, Ia menjadi Juruselamatku, sungguh milikku sehingga hidup maupun maut tidak bisa merenggut Dia dariku. Semua ini adalah menerima Kristus—menerima-Nya sebagai hadiah cuma-cuma dari Allah; merealisasikan-Nya di dalam hatiku, dan menjadikan-Nya milikku.
+*n
+Keselamatan bisa digambarkan sebagai seorang buta menerima penglihatan, seorang tuli menerima pendengaran, seorang mati menerima hidup; tetapi kita bukan saja menerima berkat-berkat ini, kita sudah menerima Kristus Yesus sendiri. Sungguh benar kalau Ia memberikan kita hidup dari kematian. Ia memberikan kita pengampunan dosa; Ia memberikan pembenaran. Semua ini adalah hal-hal yang berharga, tetapi kita tidak boleh puas dengan hal-hal tersebut; kita sudah menerima <i>Kristus sendiri</i>. Putra Allah sudah dicurahkan kepada kita, dan kita sudah menerima Dia, dan menjadikannya milik kita. Betapa mulianya Yesus, bahkan surga pun tidak bisa memuat-Nya!
+
+===
+
+mmdd 1109
+tr yanyanyan
+edit yuku 20141010
+#publish 20141011
+
+*a
+Karena itu hendaklah hidupmu tetap di dalam Dia. [Kolose 2:6]
+*n
+Jika kita sudah menerima Kristus itu sendiri di dalam hati kita yang terdalam, hidup baru kita akan menunjukkan hubungan yang erat dengan-Nya melalui <i>perjalanan iman di dalam Dia</i>. Berjalan merupakan <i>tindakan</i>. Agama kita bukan untuk disembunyikan di dalam kamar kita; kita harus membawanya menjadi tindakan sesuai dengan kepercayaan kita. Jikalau seseorang berjalan di dalam Kristus, maka ia akan berbuat apa yang Kristus akan perbuat; karena dengan Kristus ada di dalam dirinya, harapannya, kasihnya, sukacitanya, dan hidupnya, dia memancarkan sinar dari gambar Yesus; dan orang-orang akan berkomentar tentang dia, “Dia seperti Tuannya, dia hidup seperti Yesus Kristus.” Berjalan menunjukkan <i>kemajuan</i>. “Karena itu hendaklah hidupmu tetap di dalam Dia”; lanjutlah dari anugerah ke anugerah selanjutnya, berlarilah ke depan sampai engkau mencapai pengetahuan setinggi mungkin mengenai Dia kekasih kita. Berjalan berarti <i>berkelanjutan</i>. Haruslah ada kepatuhan yang terus-menerus di dalam Kristus. Berapa banyak orang Kristen berpikir bahwa pada pagi dan malam hari mereka harus datang ke dalam hadirat Yesus, tapi sepanjang hari memberikan hati mereka kepada dunia: tetapi ini adalah cara hidup yang buruk; kita harus selalu bersama Dia, menapak langkah-langkah-Nya dan melakukan kehendak-Nya. Berjalan juga berarti <i>kebiasaan</i>. Ketika ketika berbicara tentang perjalanan dan perbincangan seseorang, yang kita maksudkan adalah kebiasaannya, yakni karakter dan arah hidupnya. Nah, kalau kita kadang-kadang menikmati Kristus, tetapi lalu melupakan-Nya, kadang-kadang menyebut-Nya milik kita, tetapi segera kehilangan pegangan kita, itu tidak disebut kebiasaan; kita tidak <i>berjalan</i> di dalam-Nya. Kita harus turut bersama-Nya, melekat dengan-Nya, tidak pernah melepaskan-Nya, melainkan hidup dan berada bersama Dia. [Kis 17:28] ”Kamu telah menerima Kristus Yesus, Tuhan kita. Karena itu hendaklah hidupmu tetap di dalam Dia”; setia seperti saat engkau memulai, dan, seperti pada mulanya Kristus Yesus adalah kepercayaan imanmu, sumber hidupmu, prinsip perbuatanmu, dan sukacita rohmu, hendaklah Dia tetap sama hingga akhir hidupmu, sama saat engkau berjalan dalam lembah kekelaman, dan masuk ke dalam sukacita dan istirahat yang tetap bagi umat Allah. Oh Roh Kudus, mampukan kami menaati perintah sorgawi ini.
+
+===
+
+mmdd 1110
+tr yanyanyan
+edit yuku 20141011
+#publish 20141011
+
+*a
+Allah yang abadi adalah tempat perlindunganmu. [Ulangan 33:27]
+*n
+"Tempat perlindungan" bisa diartikan sebagai “gedung”, atau “tempat tinggal,” yang memberikan ide bahwa <i>Allah adalah tempat tinggal kita, rumah kita</i>. Ada rasa penuh dan manis pada perumpamaan ini, karena hal yang sangat dekat dengan hati kita adalah rumah kita, meskipun itu sebuah gubuk yang sederhana, ataupun loteng yang sempit; dan yang jauh lebih dekat adalah Allah kita yang terpuji, yang di dalam-Nya kita hidup, kita bergerak, kita ada [Kis 17:28]. Di rumahlah kita <i>merasa aman</i>: kita menutup dunia luar dan berdiam dalam rasa aman yang tentram. Demikian pula ketika kita bersama Allah, kita “tidak takut bahaya.” [Mazmur 23:4] Ia adalah perlindungan dan pengungsian kita, tempat berlindung kita yang kekal. Di rumah, <i>kita beristirahat</i>; di situlah kita memperoleh peristirahatan sehabis lelah dan keringat dari bekerja seharian. Dan demikianlah hati kita memperoleh peristirahatan di dalam Allah, ketika, di tengah lelahnya konflik hidup, kita berpaling kepada-Nya, dan jiwa kita berdiam dengan tentram. Di rumah, juga, <i>hati kita menjadi lega</i> kita tidak khawatir disalahpahami, ataupun kata-kata kita disalahartikan. Demikian ketika kita bersama Allah, kita bisa berelasi secara bebas dengan-Nya, meletakkan keinginan-keinginan kita yang tersembunyi; karena jikalau “TUHAN bergaul karib dengan orang yang takut akan Dia,” [Mazmur 25:14] [1] maka segala rahasia orang-orang yang takut akan Dia pastilah, dan haruslah, ada pada TUHAN mereka. Rumah, juga, adalah tempat <i>kebahagiaan kita yang sesungguhnya dan semurninya</i>: dan di dalam Allah-lah hati kita memperoleh kesukaan yang terdalam. Kita memperoleh sukacita di dalam Dia yang melebihi sukacita apapun. <i>Demi rumah pula kita bekerja dan berusaha</i>. Memikirkan akan rumah memberi kita kekuatan untuk menanggung beban sehari-hari, dan membangunkan jari-jari kita untuk menyelesaikan tugas; dan dalam pengertian ini kita juga bisa mengatakan bahwa Allah adalah rumah kita. Kasih kepada-Nya menguatkan kita. Kita memikirkan Dia dalam pribadi Putera-Nya yang tercinta; dan sekilas saja wajah Penebus yang menderita sudah memaksa kita untuk berusaha demi tujuan-Nya. Kita merasa harus bekerja, karena kita memiliki saudara-saudara yang masih harus diselamatkan, dan kita memiliki hati Bapa untuk kita bahagiakan dengan memulangkan anak-anak-Nya yang tersesat; kita akan memenuhi keluarga sakral yang di antaranya kita berada dengan kegirangan kudus. Berbahagialah mereka yang memiliki Allah Yakub sebagai tempat perlindungan mereka!
+*f
+[1] Dalam KJV, <i>The secret of the LORD is with them that fear him</i>: Rahasia TUHAN ada bersama orang yang takut akan Dia.
+
+===
+
+mmdd 1111
+tr yanyanyan
+edit yuku 20141011
+#publish 20141011
+
+*a
+Di bawahmu ada lengan-lengan yang kekal. [Ulangan 33:27]
+*n
+Allah — Allah yang kekal — adalah tumpuan kita setiap waktu, dan terutama saat kita tenggelam ke suatu masalah yang dalam. Ada saat seorang Kristen <i>tenggelam begitu rendah dalam kehinaan</i>. Di bawah kesadaran akan dirinya yang berdosa besar, ia menjadi rendah hati di hadapan Allah sampai-sampai ia hampir tidak tahu lagi bagaimana berdoa, karena ia tampak, dalam pandangan dirinya sendiri, begitu tidak berarti. Wahai engkau anak Allah, ingatlah ketika engkau sedang terpuruk dan hancur, “di bawahmu ada lengan-lengan yang kekal.” Dosa mungkin menarik engkau begitu rendahnya, tetapi penebusan mulia Kristus tetap di bawah segalanya. Engkau mungkin sudah terpuruk sangat dalam, tetapi engkau tidak mungkin terpuruk sampai yang “terdalam;” dan hingga yang terdalam itulah Ia pergi menyelamatkan. Lagi-lagi, seorang Kristen terkadang tenggelam sangat rendah di dalam <i>ujian yang menyakitkan dari luar</i>. Setiap topangan duniawi sudah patah. Jadi bagaimana? Tetap, di bawah dia adalah “lengan-lengan yang kekal.” Ia tidak mungkin jatuh terlalu dalam di dalam kesulitan dan penderitaan tanpa janji anugerah Allah yang kekal kasih setia-Nya terus melingkupinya. Seorang Kristen mungkin tenggelam dalam <i>permasalahan dari dalam</i> melalui konflik yang sengit, tetapi walaupun demikian ia tidak mungkin bisa direndahkan sampai berada di luar jangkauan “lengan-lengan yang kekal” — lengan-lengan tersebut ada di bawah dia; dan, selama keadaannya seperti itu, semua usaha Iblis untuk mencelakakan dia tidak berhasil.
+*n
+Kepastian akan tumpuan inilah penghiburan bagi setiap <i>pekerja yang lelah tetapi sungguh-sungguh</i> dalam melayani Allah. Ini berarti sebuah janji akan kekuatan setiap hari, kasih karunia akan setiap kebutuhan, dan tenaga untuk setiap tugas. Dan, lebih jauh lagi, <i>ketika maut datang</i>, janji tersebut akan tetap bertahan dengan kokoh. Ketika kita berdiri di tengah-tengah sungai Yordan, kita akan bisa berkata bersama Daud, “Aku tidak takut bahaya, sebab Engkau besertaku.” [Mazmur 23:4] Kita akan turun ke kubur, tetapi kita tidak akan lebih rendah lagi, karena lengan-lengan yang kekal mencegah kita jatuh lebih jauh lagi. Sepanjang hidup, dan di penghujungnya, kita akan ditopang “lengan-lengan yang kekal” — lengan-lengan yang takkan letih ataupun hilang kekuatan, karena “Allah kekal tidak menjadi lelah dan tidak menjadi lesu.” [Yesaya 40:28]
+
+===
+
+mmdd 1112
+tr yanyanyan
+edit yuku 20141013
+#publish 20141013
+
+*a
+Maksud semuanya itu ialah untuk membuktikan kemurnian imanmu. [1 Petrus 1:7]
+*n
+Iman yang belum diuji bisa saja merupakan iman yang benar, tetapi tentunya itu adalah iman yang kecil, dan hampir pasti akan tetap kerdil selama tidak diuji. Iman tidak berbuah sebaik ketika segala sesuatu melawan iman itu: badai adalah pelatih iman, dan petir adalah penerang iman. Ketika ketenangan menguasai laut, kembangkan layar sesukamu, kapal tetap tidak bergerak ke pelabuhan, karena di samudera yang terlelap kapal juga tertidur. Biarkan angin bertiup, dan biarkan air terangkat, kemudian, meski kapal bergoncang, dan geladak kapal didera ombak, dan tiangnya berderak ditekan layar yang terkembang, itulah saatnya kapal itu bergerak menuju daratan tujuannya. Tidak ada bunga yang memiliki warna biru seindah bunga-bunga yang tumbuh di kaki sungai es yang beku; tidak ada bintang yang bersinar seterang bintang-bintang yang bercahaya di langit kutub; tidak ada air semanis air di tengah gurun pasir; dan tidak ada iman yang seberharga iman yang hidup dan menang dalam kesulitan. Iman yang teruji menghasilkan pengalaman. Engkau tidak mungkin percaya kelemahanmu kalau engkau belum pernah didesak melewati sungai-sungai; dan engkau tidak akan mengerti kemahakuasaan Allah kalau engkau belum pernah ditopang di tengah-tengah luapan air. Iman semakin kuat dalam keteguhannya, keyakinannya, dan intensitasnya, seiring iman itu dilatih di dalam kesukaran. Baik iman maupun ujian iman, keduanya berharga.
+*n
+Tetapi, jangan sampai hal ini mengecilkan hati mereka yang masih baru di dalam iman. Engkau akan mengalami cukup ujian tanpa perlu mencari-carinya; bagian sepenuhnya akan diukurkan kepadamu pada waktunya. Sementara itu, kalau engkau tidak bisa mengklaim hasil dari pengalaman yang panjang, bersyukurlah kepada Allah atas anugerah yang engkau miliki; pujilah Dia atas seukuran keyakinan kudus yang telah engkau peroleh: berjalanlah berdasarkan kaidah itu, dan engkau akan mendapatkan berkat Allah yang lebih dan lebih lagi, sampai imanmu memindahkan gunung-gunung dan mengalahkan kemustahilan.
+
+===
+
+mmdd 1113
+tr jono
+edit yuku 20141013
+#publish 20141013
+
+*a
+Ranting tidak dapat berbuah dari dirinya sendiri. [Yohanes 15:4]
+*n 
+Bagaimana permulaan engkau berbuah? Ketika engkau datang kepada Yesus, dan melemparkan dirimu kepada pendamaian-Nya yang agung, dan beristirahat dalam kebenaran-Nya yang tuntas. Ah! buah apa yang engkau miliki saat itu! Apakah engkau mengingat masa-masa dini itu? Ketika itu, sungguh, pokok anggur tumbuh dengan subur, buah anggur yang empuk bermunculan, buah delima bertunas, dan kebun rempah-rempah mengeluarkan aromanya. Apakah engkau telah merosot semenjak masa itu? Jika ya, kami mendesak engkau untuk mengingat masa yang penuh kasih itu, kemudian bertobat, dan lakukan lagi apa yang semula engkau lakukan [Wahyu 2:5]. Banyak-banyaklah melakukan hal yang menurut pengalamanmu dapat menarik engkau ke dalam keadaan yang terdekat dengan Kristus, sebab setiap buah yang engkau keluarkan berasal dari-Nya. Latihan kudus apapun yang membawamu dekat kepada-Nya akan menolongmu berbuah. Tidak diragukan lagi, matahari adalah pekerja yang hebat yang membuat pohon-pohon berbuah di kebun anggur; terlebih lagi Yesus membuat pohon-pohon berbuah dalam kebun anugerah-Nya. Kapan engkau paling tak berbuah? Bukankah ketika engkau hidup paling jauh dari Tuhan Yesus Kristus, ketika engkau telah mengendur dalam doa, ketika engkau telah meninggalkan kesederhanaan imanmu, ketika berkat-berkatmu telah lebih menyita perhatian daripada Allahmu, ketika engkau berkata, "Gunungku berdiri teguh, aku takkan goyah"; dan lupa di mana kekuatanmu berada — bukankah <i>saat-saat itulah</i> buahmu berhenti? Beberapa dari kita telah diajarkan bahwa kita tak punya apa-apa di luar Kristus [Yohanes 15:5], melalui perendahan hati yang dahsyat di hadapan Tuhan; dan ketika kita telah melihat bahwa ciptaan sama sekali mandul kuasanya dan melihat kematian akan kuasa ciptaan itu, kita merintih, "Pasti dari Dialah semua buahku ditemukan, sebab tak ada buah yang bisa muncul dari diriku sendiri." Kita diajarkan, dari pengalaman yang lampau, bahwa semakin kita sekadar bergantung pada kasih karunia Allah dalam Kristus, dan menantikan Roh Kudus, semakin banyak kita bisa berbuah untuk Allah. Oh! percayalah akan Yesus demi buah sebagaimana demi hidup.
+
+===
+
+mmdd 1114
+tr jono
+edit yuku 20141013
+#publish 20141013
+
+*a
+Aku akan melenyapkan mereka yang menyembah dan bersumpah setia pada TUHAN, namun di samping itu bersumpah demi Dewa Milkom. [Zefanya 1:5] [1]
+*n
+Orang-orang seperti ini berpikir bahwa mereka aman karena mereka berpihak pada keduanya; mereka berjalan mengikut TUHAN, dan pada saat yang sama sujud kepada Dewa Milkom. Akan tetapi, Allah jijik pada orang bermuka dua, dan jiwa-Nya membenci orang munafik. Seorang pemuja berhala yang jelas-jelas memberikan dirinya kepada allah palsunya, dosanya lebih sedikit satu daripada seorang yang membawa persembahan yang cemar dan menjijikkan ke Bait Tuhan, sambil hatinya melekat pada dunia dan dosa-dosa yang ada di dalamnya. Memegang kelinci buruan sambil berlari bersama anjing pemburu [2], adalah haluan seorang pengecut. Dalam kehidupan sehari-hari, orang yang mendua hati dipandang rendah, namun dalam agama dia memuakkan sampai ke tingkat terakhir. Hukuman yang disebutkan dalam ayat ini sungguh mengerikan, tetapi memang pantas; sebab bagaimana mungkin keadilan ilahi menyayangkan orang berdosa, yang mengetahui apa yang benar, menyetujuinya, dan mengaku menganutnya, tetapi sementara itu terus mencintai kejahatan, dan membiarkan kejahatan menguasai hatinya?
+*n
+Jiwaku, selidikilah dirimu pagi ini, dan lihat apakah engkau bersalah karena engkau bermuka dua. Engkau menyatakan diri sebagai pengikut Yesus — apakah engkau mengasihi-Nya? Apakah hatimu berada dengan Allah? Apakah engkau anggota keluarga Pak Tua Jujur [3], atau sanak keluarga Tuan Demi Keuntungan [4]? Sebuah nama yang deminya aku hidup tidak begitu bernilai, jika aku sendiri mati dalam pelanggaran-pelanggaran dan dosa-dosa. Memijakkan satu kaki pada daratan kebenaran, dan kaki lainnya pada lautan kesesatan, akan menimbulkan kejatuhan yang ngeri dan kehancuran yang tuntas. Kristus merupakan segalanya atau tidak sama sekali. Allah mengisi seluruh alam semesta, maka tidak ada ruang untuk allah lain: maka jika Dia menguasai hatiku, tak ada lagi ruang bagi kuasa lain. Apakah aku bersandar hanya kepada Yesus yang disalibkan, dan hidup hanya bagi Dia? Apakah itulah hasratku? Apakah hatiku sudah ditetapkan untuk melakukannya? Jika ya, terpujilah kasih karunia-Nya yang perkasa, yang telah memimpinku kepada keselamatan; dan jika tidak, ya Tuhan, ampunilah pelanggaranku yang menyedihkan, dan bulatkanlah hatiku untuk takut akan nama-Mu [Mazmur 86:11].
+*f
+[1] Kutipan ayat ini gabungan dari ayat 4 dan 5.
+[2] <i>hold with the hare and run with the hounds</i> (idiom): menentang suatu tindakan atau perilaku sambil ikut serta dalam tindakan atau perilaku tersebut; munafik
+[3] <i>Father Honest</i>, tokoh dalam <i>The Pilgrim's Progress</i>, John Bunyan
+[4] <i>Mr. By-ends</i>, tokoh dalam <i>The Pilgrim's Progress</i>, John Bunyan, yang beragama demi keuntungan pribadi
+
+===
+
+mmdd 1115
+tr jono
+edit yuku 20141013
+#publish 20141013
+
+*a
+Bagian TUHAN ialah umat-Nya. [Ulangan 32:9]
+*n
+Bagaimana mereka dapat menjadi milik-Nya? Melalui Dia yang <i>memilih</i> dalam kedaulatan-Nya. Dia memilih mereka, dan menaruh kasih pada mereka. Ini semua Dia lakukan tanpa adanya kebaikan dari umat-Nya saat itu, maupun adanya kebaikan yang Dia lihat pada masa yang akan datang. Dia menaruh belas kasihan kepada siapa Dia mau menaruh belas kasihan [Roma 9:15], dan menetapkan kaum terpilih untuk hidup kekal; maka, dengan itu, mereka menjadi milik-Nya berdasarkan Dia yang memilih tanpa dibatasi.
+*n
+Bukan saja mereka milik-Nya karena Dia pilih, tapi juga karena <i>dibeli</i>. Dia telah membeli dan membayar mereka dengan harga penuh, maka tidak bisa ada sengketa mengenai apakah Dia punya hak milik atas mereka. Bukan dengan barang yang fana, bukan pula dengan perak atau emas, melainkan dengan darah yang mahal, yaitu darah Kristus [1 Petrus 1:18-19], bagian TUHAN sudah ditebus sepenuhnya. Aset-Nya tidak dijaminkan pada pegadaian; lawan tidak dapat menggugat-Nya, harganya telah dibayar dalam pengadilan terbuka, dan Gereja adalah milik Allah dengan hak milik selamanya. Lihatlah tanda darah pada semua orang pilihan, yang tidak terlihat mata manusia, tapi dikenali Kristus, sebab "Tuhan mengenal siapa kepunyaan-Nya" [2 Timotius 2:19]; Dia tak melupakan satu pun tebusan-Nya di antara manusia-manusia; Dia menghitung domba-domba yang deminya Dia menyerahkan nyawa-Nya, dan mengingat baik-baik Gereja yang deminya Dia memberikan diri-Nya.
+*n
+Mereka juga adalah milik-Nya melalui <i>penaklukan</i>. Sebelum kita dimenangkan, Dia telah bertempur di dalam diri kita! Berapa lama Dia telah mengepung hati kita! Seberapa sering Dia mengirimkan kita syarat-syarat penyerahan! tapi kita menutup gerbang, dan memagari tembok kita terhadap Dia. Tidak ingatkah kita akan saat-saat mulia ketika Dia menggotong hati kita melewati badai? Ketika Dia meletakkan salib-Nya pada dinding tembok, memanjat tembok pertahanan kita, dan menancapkan bendera belas kasihan-Nya yang merah darah pada benteng kita? Ya, sungguh kita tawanan yang telah ditaklukkan kasih-Nya yang mahakuasa. Maka dari itu, hak dari Pemilik Ilahi kita yang sudah dipilih, dibayar, dan ditundukkan, tidak mungkin dapat dicabut: kita bersukacita karena kita takkan mungkin menjadi milik diri kita sendiri; maka kita ingin, setiap harinya, melakukan kehendak-<i>Nya</i>, dan menampilkan kemuliaan-<i>Nya</i>. 
+
+===
+
+mmdd 1116
+tr jaya
+edit yuku 20141015
+#publish 20141015
+
+*a
+“TUHAN adalah bagianku,” kata jiwaku. [Ratapan 3:24]
+*n
+Bukan “TUHAN adalah <i>sebagian</i> bagianku,” bukan pula “TUHAN berada <i>di dalam</i> bagianku”; tetapi Dia sendiri merupakan keseluruhan total dari pusaka jiwaku. Di dalam keliling lingkaran itu terletak semua yang kita miliki atau inginkan. <i>TUHAN</i> adalah bagianku. Bukan hanya anugerah-Nya, atau kasih-Nya, atau perjanjian-Nya, melainkan TUHAN sendiri. Dia telah memilih kita untuk menjadi bagian-Nya, dan kita telah memilih-Nya untuk menjadi bagian kita. Adalah benar bahwa TUHAN harus terlebih dahulu memilih bagi kita tanah pusaka kita [Mazmur 47:4], sebab kalau tidak kita tidak akan pernah memilihnya bagi diri kita; namun jika kita benar-benar dipanggil sesuai dengan maksud dari kasih yang memilih itu, kita dapat bernyanyi—
+*p
+“Dikasihi Allahku, kepada Dia pula
+Dengan cinta membara kukobarkan;
+Dipilih oleh Dia sebelum permulaan waktu,
+Kupilih Dia sebagai balasan.” [1]
+*n
+Tuhan adalah bagian kita <i>yang maha cukup</i> [2]. Allah mencukupkan diri-Nya sendiri; dan jika Allah sendirinya maha cukup, Dia pastinya cukup bagi kita. Tidaklah mudah memuaskan keinginan manusia. Ketika seseorang bermimpi bahwa dia puas, segeralah dia terjaga, sadar bahwa sepertinya masih ada sesuatu yang lebih, dan langsung si lintah di hatinya menjerit, ”Untukku! Untukku!” [Amsal 30:15] Tetapi segala yang dapat kita minta itu ditemukan dalam bagian kita yang ilahi, sehingga kita bertanya, ”Siapa gerangan ada padaku di sorga selain Engkau? Selain Engkau tidak ada yang kuingini di bumi.” [Mazmur 73:25] Baiklah kita “berbahagia karena Tuhan” [Mazmur 37:4] yang membuat kita minum dari sungai kesenangan-Nya [Mazmur 36:8]. Iman kita membentangkan sayapnya dan naik terbang seumpama rajawali [Yesaya 40:31] sampai ke surga kasih ilahi sebagai tempat kediamannya yang sepatutnya. “Tali pengukur jatuh bagiku di tempat-tempat yang permai; ya, milik pusakaku menyenangkan hatiku.” [Mazmur 16:6] Mari kita bersorak dalam Tuhan selalu; mari kita tunjukkan kepada dunia bahwa kita adalah umat yang berbahagia dan diberkati, sehingga mendorong mereka untuk berseru, ”Kami mau pergi menyertai kamu, sebab telah kami dengar, bahwa Allah menyertai kamu!" [Zakharia 8:23]
+*f
+[1] Augustus Toplady <i>“The chiefest among ten thousand.”</i> [Kidung Agung 5:10] 
+[2] <i>all-sufficient</i>, mungkin berasal dari nama Allah El Shaddai
+
+===
+
+mmdd 1117
+tr jaya
+edit yuku 20141015
+#publish 20141015
+
+*a
+Bagi Dialah kemuliaan sampai selama-lamanya! — Roma 11:36
+*n
+“Bagi Dialah kemuliaan sampai selama-lamanya!” Ini seharusnya <i>satu-satunya</i> hasrat orang Kristen. Semua keinginan yang lain harus tunduk dan tambahan saja dibanding yang ini. Orang Kristen boleh menginginkan keberhasilan dalam usahanya, tetapi hanya sejauh hal itu dapat membantunya untuk memperkembangkan ”Bagi Dialah kemuliaan sampai selama-lamanya!” Dia boleh berhasrat mendapatkan karunia lebih banyak dan rahmat lebih banyak, namun seharusnya itu hanya “Bagi Dialah kemuliaan sampai selama-lamanya.” Engkau tidak berbuat sebagaimana seharusnya ketika engkau didorong oleh niat apapun tanpa satu mata terarah kepada kemuliaan Tuhanmu. Sebagai orang Kristen, engkau “dari Allah, dan oleh Allah,” maka hiduplah “kepada Allah.” [Roma 11:36] Biarlah tidak ada apapun yang dapat mendebarkan hatimu sekuat kasih kepada Dia. Biarlah ambisi ini membakar jiwamu; jadikanlah ini dasar dari setiap usaha yang engkau jalani, dan sebagai motivasi yang menopangmu saat semangatmu mulai dingin; jadikan Allah tujuanmu satu-satunya. Bersandarlah kepadanya, sebab ketika diri bermula penderitaan pun bermula; namun jika Allah adalah kesukaan tertinggi dan tujuan satu-satunya bagiku,
+*p
+“Bagiku sama saja apakah Kasih menetapkan
+Hidup atau mati—tentukanlah diriku tentram atau derita.” [1]
+*n
+Biarlah hasratmu untuk kemuliaan Tuhan menjadi hasrat yang <i> bertumbuh</i>. Engkau memuji-Nya dalam masa mudamu, maka janganlah puas dengan segala puji dan syukur seperti yang engkau berikan saat itu. Sudahkah Allah membuatmu berhasil dalam usahamu? Beri kepada-Nya lebih sebab Dia telah memberimu lebih. Sudahkah Allah memberimu pengalaman? Pujilah Dia dengan iman yang lebih kuat daripada yang pertama kali engkau amalkan. Apakah pengetahuanmu bertumbuh? Maka bernyanyilah dengan lebih manis. Apakah engkau menikmati waktu-waktu yang lebih menyenangkan daripada yang dulu engkau lewati? Apakah engkau telah dipulihkan dari penyakit, dan kesedihanmu diubah menjadi damai sejahtera dan sukacita? Maka berilah Dia lebih banyak musik; taruh lebih banyak batu bara dan kemenyan yang lebih manis ke dalam pedupaan pujianmu. Secara nyata dalam hidupmu beri Dia hormat, menaruh “Amin” [2] pada doksologi bagi Tuhanmu yang besar dan murah hati itu, melalui pelayanan pribadimu dan kesucian yang makin bertambah.      
+*f 
+[1] <i>Love! If thy destined sacrifice am I</i>. Translator: William Cowper, Author: Madame Guyon
+[2] Roma 11:36 KJV diakhiri dengan <i>Amen</i>
+
+===
+
+mmdd 1118
+tr silvi
+edit yuku 20141015
+#publish 20141015
+
+*a
+Kebun tertutup dan mata air termeterai. [Kidung Agung 4:12]
+*n
+Dalam kiasan ini, yang merujuk pada kehidupan batin seorang percaya, kita memiliki ide yang jelas akan <i>kerahasiaan</i>. Kebun yang <i>tertutup</i>: seperti kebun-kebun di Timur, yang di atasnya dibangun sebuah bangunan, sehingga tidak ada yang dapat mencapai kebun kecuali mereka yang tahu pintu rahasianya; demikian pula hati seorang percaya ketika diperbarui anugerah: terdapat hidup misterius di dalamnya yang tidak dapat dijangkau ketrampilan manusia. Itulah rahasia yang tidak dapat diketahui orang lain; bahkan, manusia yang memilikinya pun tidak dapat memberitahu sesamanya. Ayat tadi bukan saja mengandung kerahasiaan, tetapi juga <i>pemisahan</i>. Bukanlah kebun biasa, yang mana sembarang orang lewat dapat meminumnya, melainkan kebun yang dipelihara dan dilindungi dari segala hal; pada mata airnya terpasang tanda tertentu—segel kerajaan dari seorang raja, sehingga semua yang melihatnya sadar bahwa ini bukan mata air biasa, melainkan mata air dari seorang pemilik, dan sengaja ditaruh di tempat itu. Demikian pula kehidupan rohani. Orang pilihan Allah dipisahkan dalam keputusan kekal; mereka dipisahkan oleh Allah pada hari penebusan; dan mereka terpisah karena mereka memiliki hidup yang tidak dimiliki orang lain; mustahil bagi mereka untuk merasa dunia ini rumah mereka, mustahil untuk berbahagia dalam kenikmatan dunia. Terdapat juga ide <i>kekudusan</i>. Kebun yang tertutup dijaga untuk digunakan hanya oleh orang tertentu: demikianlah hati seorang Kristen. Hati orang Kristen adalah kebun yang disimpan untuk Yesus. Setiap orang Kristen seharusnya merasa bahwa ia memiliki materai Allah atas mereka—dan ia dapat berkata bersama Paulus, "Selanjutnya janganlah ada orang yang menyusahkan aku, karena pada tubuhku ada tanda-tanda milik Yesus." [Galatia 6:17] Ide lainnya yang menyolok—yaitu <i>keamanan</i>. Oh! betapa pasti dan aman hidup batiniah seorang percaya! Walaupun segala kekuatan bumi dan neraka dapat bergabung melawannya, prinsip abadi itu tinggal tetap, sebab Dia yang memberikannya menyerahkan nyawa-Nya untuk memelihara orang percaya. Dan siapakah "yang akan berbuat jahat terhadap kamu," [1 Petrus 3:13] jika Allah adalah pelindungmu?
+
+===
+
+mmdd 1119
+tr silvia
+edit yuku 20141015
+#publish 20141015
+
+*a
+Hindarilah persoalan yang dicari-cari dan yang bodoh. [Titus 3:9]
+*n
+Hari-hari umur kita hanya sedikit, jauh mendingan dihabiskan dengan berbuat baik, daripada mempermasalahkan hal-hal yang kecil sekali kepentingannya. Skolastisisme tua [1] telah banyak usil dengan tidak henti-hentinya mendiskusikan persoalan yang tidak berguna secara nyata; dan Gereja-gereja kita banyak mengalami perkelahian yang picik atas hal-hal yang tidak jelas dan pertanyaan-pertanyaan yang tidak penting. Setelah segala yang dapat diucapkan telah diucapkan, tidak ada pihak yang lebih berhikmat, dan diskusi itu pun tidak menambahkan baik pengetahuan maupun kasih, maka betapa bodohnya kita menabur di tanah yang gersang. Pertanyaan-pertanyaan mengenai hal-hal yang tidak Alkitab beritahukan; mengenai misteri milik Allah sendiri; mengenai nubuat-nubuat yang tafsirannya meragukan; dan mengenai cara-cara bagaimana manusia melaksanakan adat istiadat mereka, semua itu bodoh, dan orang-orang bijak akan menghindarinya. Tugas kita bukanlah bertanya atau menjawab pertanyaan-pertanyaan bodoh, melainkan menghindari seluruhnya; dan jika kita mengamati ajaran para rasul (Titus 3:8) untuk sungguh-sungguh melakukan pekerjaan yang baik, kita akan mendapatkan bahwa diri kita sibuk dengan urusan yang bermanfaat, sehingga tidak lagi mengurusi perjuangan yang tidak berharga, penuh tengkar, dan percuma.
+*n
+Namun, ada beberapa pertanyaan yang adalah sama sekali tidak bodoh, yang tidak boleh dihindari, tetapi terus terang, benar-benar pantas, misalnya ini: Apakah aku percaya Tuhan Yesus Kristus? Sudahkah aku dibaharui di dalam roh dan pikiranku [Efesus 4:23]? Apakah aku tidak hidup menurut daging, tetapi menurut Roh [Roma 8:4]? Apakah aku bertumbuh dalam kasih karunia [2 Petrus 3:18]? Apakah percakapanku memuliakan ajaran Allah, Juruselamat kita [Titus 2:10]? Apakah aku menantikan kedatangan Tuhan, dan berjaga-jaga seperti seorang pelayan menantikan tuannya? Apalagi yang dapat aku lakukan untuk Yesus? Pertanyaan-pertanyaan seperti itulah yang mendesak untuk kita perhatikan; dan jika kita pernah mengajukan perbantahan yang tidak perlu, hendaklah kita menggunakan kemampuan mengkritik kita demi pelayanan yang jauh lebih bermanfaat. Hendaklah kita menjadi pembawa damai, dan berusaha keras menuntun orang lain, baik melalui pengajaran maupun teladan, untuk "menghindari persoalan yang dicari-cari dan yang bodoh."
+*f
+[1] <i>old schoolmen</i>
+
+===
+
+mmdd 1120
+tr silvia
+edit yuku 20141016
+#publish 20141016
+
+*a
+Ya Tuhan, Engkau telah memperjuangkan perkaraku. [Ratapan 3:58]
+*n
+Amati betapa <i>yakin</i> nabi itu berbicara. Ia tidak mengatakan, "Aku berharap, aku percaya, aku kadang berpikir, bahwa Allah telah memperjuangkan perkaraku;" tetapi ia berbicara akan fakta yang tidak dapat diperdebatkan lagi. "Engkau <i>telah</i> memperjuangkan perkaraku." Hendaklah kita, dengan pertolongan dari sang Penghibur yang murah hati, menanggalkan segala ragu dan takut yang banyak mengotori damai sejahtera dan kenyamanan kita. Jadikanlah ini doa kita: agar kita tidak lagi berkuak penuh dugaan dan kecurigaan, dan dapat berbicara dengan suara merdu dan jelas, mengenai keyakinan penuh. Perhatikan betapa dengan <i>syukur</i> nabi itu berbicara, memberikan segala kemuliaan hanya kepada Allah! Engkau lihat tidak ada satu kata pun yang menyangkut dirinya ataupun perjuangan dirinya. Ia tidak menyatakan keselamatannya sebagai jasa manusia sedikit pun, bukan pula sebagai jasa dirinya; tetapi "<i>Engkau</i>—"Ya Tuhan, Engkau telah memperjuangkan perkaraku, <i>Engkau<i> telah menyelamatkan hidupku." [Ratapan 3:58] Jiwa yang bersyukur harus selalu ditumbuhkan seorang Kristen; terutama setelah setiap penyelamatan, kita seharusnya mempersiapkan sebuah nyanyian untuk Allah kita. Bumi haruslah menjadi bait yang dipenuhi puji-pujian dari orang-orang kudus yang bersyukur, dan setiap hari haruslah merupakan pedupaan dengan asap dari kemenyan rasa terima kasih. Betapa <i>riang</i> Yeremia kelihatannya ketika ia mencatatkan rahmat Tuhan. Betapa penuh kemenangan nyanyian Yeremia yang dinaikkannya! Ia telah berada dalam kegelapan bawah tanah, dan bahkan sekarang ia disebut nabi peratap; akan tetapi justru di dalam kitab yang bernama "Ratapan," jernih seperti kidung Miryam ketika jari-jarinya menabuh tambur, melengking seperti nada Debora ketika ia bertemu Barak dengan teriak kemenangan, kita dengar suara Yeremia yang naik ke surga—"Engkau telah memperjuangkan perkaraku, Engkau telah menyelamatkan hidupku." O anak-anak Allah, carilah pengalaman yang penting dari kasih setia Tuhan, dan saat engkau memperolehnya, tuturkanlah dengan yakin kasih setia-Nya, nyanyikanlah dengan syukur; teriakkanlah kemenangan.
+
+===
+
+mmdd 1121
+tr silvia
+edit yuku 20141016
+#publish 20141016
+
+*a
+Janganlah kamu mendukakan Roh Kudus. [Efesus 4:30]
+*n
+Semua yang dimiliki orang percaya pasti datang dari Kristus, tetapi disalurkan hanya lewat Roh kemurahan. Terlebih lagi, karena seluruh berkat yang mengalir padamu datang lewat Roh Kudus, maka juga tidak ada hal baik yang dapat datang dari dirimu dalam pemikiran kudus, penyembahan khusyuk, dan perbuatan baik, terlepas dari tindakan pengudusan dari Roh tersebut. Meskipun bibit kebaikan ditaburkan dalam dirimu, bibit itu akan tertidur kalau Roh tidak bekerja di dalammu dan melaksanakan kehendak-Nya sesuai dengan kemauan-Nya. Engkau ingin berbicara atas nama Yesus—bagaimana mungkin kalau Roh Kudus tidak menyentuh lidahmu? Engkau ingin berdoa? Aduh! betapa bosannya kegiatan itu kalau Roh tidak bersyafaat bagimu! Engkau ingin menaklukkan dosa? Engkau ingin menjadi kudus? Engkau ingin meniru Tuanmu? Engkau ingin naik ke tingkat kerohanian yang tinggi? Engkau ingin dijadikan seperti malaikat-malaikat Allah, penuh semangat dan giat dalam memperjuangkan perkara Tuan mereka? Engkau tidak bisa melakukannya tanpa Roh—"di luar Aku kamu tidak dapat berbuat apa-apa." [Yohanes 15:5] O ranting pokok anggur, engkau tidak dapat berbuah tanpa getah! O anak Allah, engkau tidak memiliki hidup di dalam dirimu terlepas dari hidup yang telah Allah berikan kepadamu melalui Roh-Nya. Maka janganlah mendukakan atau memancing kemarahan-Nya dengan dosa kita. Marilah kita tidak memadamkan Dia dalam gerakan-Nya yang paling sayup-sayup sekalipun dalam jiwa kita; marilah kita kembangkan setiap saran-Nya, dan siap menaati setiap dorongan-Nya. Jika Roh Kudus memang perkasa, hendaklah kita tidak mencoba apapun tanpa Dia; hendaklah kita tidak memulai suatu rencana, tidak mengerjakan suatu usaha, maupun menyetujui transaksi apapun, tanpa memohon perkenanan-Nya. Marilah kita menghormati Dia dengan merasakan kelemahan kita saat terpisah dari-Nya, dan kemudian bergantung hanya pada-Nya, dengan mengucapkan dalam doa kita, "Bukakanlah hatiku dan seluruh diriku demi kedatangan-Mu, dan topanglah aku dengan Roh-Mu yang bebas saat aku menerima Roh itu dalam batinku."
+
+===
+
+mmdd 1122
+tr silvia
+edit yuku 20141016
+#publish 20141016
+
+*a
+Israel memperhambakan diri untuk mendapat isteri, ya, untuk mendapat isteri ia menjadi gembala. [Hosea 12:12]
+*n
+Yakub, ketika berbantahan dengan Laban, menjelaskan kerja kerasnya, "Selama dua puluh tahun ini aku bersama-sama dengan engkau; domba dan kambing betinamu tidak pernah keguguran dan jantan dari kambing dombamu tidak pernah kumakan. Yang diterkam oleh binatang buas tidak pernah kubawa kepadamu, aku sendiri yang menggantinya; yang dicuri orang, baik waktu siang, baik waktu malam, selalu engkau tuntut dari padaku. Aku dimakan panas hari waktu siang dan kedinginan waktu malam, dan mataku jauh dari pada tertidur." [Kejadian 31:38-40] Yang lebih melelahkan lagi daripada ini adalah hidup Juruselamat kita di bumi. Ia menjaga seluruh domba-Nya hingga Ia memberikan perhitungan terakhir-Nya, "Dari mereka yang Engkau serahkan kepada-Ku, tidak seorang pun yang Kubiarkan binasa." [Yohanes 18:9] Rambut-Nya basah karena embun, dan ikatan rambut-Nya oleh tetesan malam hari. Tidur jauh daripada mata-Nya, sebab sepanjang malam ia berdoa bergumul untuk umat-Nya. Suatu malam Petrus harus diminta; dan tidak lama kemudian pada malam yang lain, Petrus mengharuskan Yesus berdoa syafaat baginya. Tidak ada gembala yang duduk di bawah langit dingin sambil menatap bintang-bintang, dapat mengeluhkan kesulitan kerja kerasnya seperti yang Yesus Kristus dapat lakukan, kalau saja Ia mau, sebab begitu sulit pelayanan-Nya untuk mendapatkan isteri-Nya—
+*p
+"Gunung-gunung yang dingin dan udara tengah malam,
+Menyaksikan gairah doa-Nya;
+Padang gurun mengenal pencobaan-Nya,
+Pergumulan-Nya dan kemenangan-Nya pula." [1]
+*n
+Betapa manisnya merenungkan paralel rohani Laban yang menuntut seluruh dombanya dari tangan Yakub. Jika mereka diterkam binatang buas, Yakub harus ganti rugi; jika salah satu dari mereka mati, ia harus menjadi penanggung seluruhnya. Bukankah kerja keras Yesus demi Gereja-Nya merupakan kerja keras Seorang yang mempunyai kewajiban untuk menyerahkan setiap orang percaya kepada Dia, yang sudah menitipkan mereka? Pandang Yakub yang bekerja keras, dan engkau akan melihat representasi Dia yang mengenai-Nya kita baca, "Seperti seorang gembala Ia menggembalakan kawanan ternak-Nya." [Yesaya 40:11]
+*f
+[1] <i>My Dear Redeemer and My Lord</i>, Isaac Watts, 1707
+
+===
+
+mmdd 1123
+tr silvia
+edit yuku 20141017
+#publish 20141017
+
+*a
+Persekutuan dengan Dia. [1 Yohanes 1:6]
+*n
+Ketika kita dipersatukan oleh iman kepada Kristus, kita dibawa pada persekutuan yang begitu sempurna dengan Dia, sehingga kita menjadi satu dengan Dia, dan kepentingan Dia dan kita menjadi sesuai dan sama persis. Kita memiliki persekutuan dengan Kristus dalam <i>kasih</i>-Nya. Apa yang Ia kasihi kita kasihi. Ia mengasihi orang-orang kudus—begitu juga kita. Ia mengasihi para pendosa—begitu juga kita. Ia mengasihi umat manusia yang binasa, dan rindu untuk melihat padang-padang gurun bumi berubah menjadi taman Tuhan—begitu juga kita. Kita memiliki persekutuan dengan Dia dalam <i>keinginan</i>-Nya. Ia ingin memuliakan Allah—kita juga bekerja keras memuliakan Allah. Ia ingin orang-orang suci berada bersama Dia di tempat Dia berada—demikian kita pun ingin bersama Dia di sana. Ia ingin membuang dosa—lihat, kita bertarung di bawah panji-Nya. Ia ingin agar nama Bapa dikasihi dan dipuja oleh segala ciptaan-Nya—kita berdoa setiap hari, "Datanglah kerajaan-Mu, jadilah kehendak-Mu, di bumi seperti di sorga." [Matius 6:10] Kita memiliki persekutuan dengan Kristus dalam <i>penderitaan</i>-Nya. Kita memang tidak dipaku di atas salib, ataupun mati dengan mengenaskan, tetapi saat Ia dicela, kita dicela; dan sangatlah manis adanya disalahkan demi Dia, dibenci sebagai pengikut Tuan kita, mengalami dunia yang melawan kita. Seorang murid tidak lebih dari pada gurunya [Matius 10:24]. Dalam ukuran kita, kita bergabung dengan Dia dalam <i>pekerjaan</i>-Nya, melayani orang-orang dengan kata-kata kebenaran dan dengan perbuatan-perbuatan kasih. Makanan dan minuman bagi kita, seperti bagi Dia, adalah melakukan kehendak Dia yang mengutus kita dan menyelesaikan pekerjaan-Nya. Kita juga bersekutu dengan Kristus dalam <i>sukacita</i>-Nya. Kita berbahagia dalam kebahagiaan-Nya, kita bersuka dalam Dia yang ditinggikan. Pernahkah engkau merasakan sukacita itu, hai orang percaya? Tidak ada kebahagiaan yang lebih murni atau lebih menggetarkan hati di bagian langit sini selain daripada kebahagiaan Kristus yang terpenuhi dalam kita, supaya sukacita kita menjadi sempurna [1 Yohanes 1:4]. <i>Kemuliaan</i>-Nya menantikan kita untuk menyempurnakan persekutuan kita, sebab Jemaat-Nya akan duduk bersama-sama Dia di atas takhta-Nya, sebagai pengantin dan ratu terkasih-Nya.
+
+===
+
+mmdd 1124
+tr silvia
+edit yuku 20141017
+#publish 20141017
+
+*a
+Kita akan melihat betapa mulia TUHAN kita: seperti tempat yang penuh sungai dan aliran yang lebar. [Yesaya 33:21]
+*n
+Sungai dan aliran yang lebar menghasilkan kesuburan, dan kelimpahan di tanahnya. Tempat-tempat dekat sungai lebar terkenal akan ragam tanamannya dan banyaknya hasil panen. Seperti semua inilah Allah bagi Gereja-Nya. Dengan memiliki Allah, Gereja memiliki <i>kelimpahan</i>. Apa yang dapat Gereja minta yang tidak akan Dia berikan? Kebutuhan apa yang bisa Gereja sebutkan yang tidak Dia sediakan? "TUHAN semesta alam akan menyediakan di gunung Sion ini bagi segala bangsa-bangsa suatu perjamuan dengan masakan yang bergemuk." [Yesaya 25:6] Engkau ingin roti hidup? Roti hidup jatuh seperti manna dari langit. Engkau ingin aliran yang menyegarkan? Batu karang mengikuti engkau, dan Batu karang tersebut ialah Kristus. Jika engkau kekurangan suatu kebutuhan itu adalah kesalahanmu sendiri; bagimu ada tempat yang luas dalam hati-Nya, tetapi bagi-Nya hanya tersedia tempat yang sempit di dalam hatimu [2 Korintus 6:12]. Sungai dan aliran yang lebar juga mengarah kepada <i>niaga</i>. Kemuliaan Tuhan bagi kita adalah tempat penuh barang jualan surgawi. Melalui Penebus kita, kita dapat berniaga dengan masa lalu; kekayaan Kalvari, harta perjanjian, gemuknya hari-hari purbakala saat pemilihan, gudang kekekalan, seluruhnya datang kepada kita menuruni aliran lebar kasih setia Tuhan. Kita dapat berniaga, juga, dengan masa depan. Sungguh, kapal yang sarat muatan sampai pinggiran air, datang pada kita dari milenium itu! Gambaran macam apa yang kita miliki mengenai hari-hari surga di bumi! Melalui Tuhan kita yang agung kita memiliki hubungan niaga dengan malaikat-malaikat; komunitas dengan roh-roh terang yang dibasuh darah itu, yang bernyanyi dihadapan takhta; bahkan, lebih baik lagi, bersekutu dengan yang Tak Terbatas. Sungai dan aliran yang lebar dimaksudkan untuk menyampaikan ide <i>keamanan</i>. Pada masa lampau sungai merupakan pertahanan. Oh! kekasih, sungguh Allah merupakan pertahanan Gereja-Nya! Setan tidak dapat menyeberangi sungai lebar Allah ini. Setan berharap ia dapat membalikkan arus, tapi jangan takut, Allah tinggal tetap sama tidak berubah. Iblis dapat membuat kita khawatir, tetapi ia tidak dapat menghancurkan kita; perahu dayung tidak melaluinya, dan kapal besar tidak menyeberanginya [Yesaya 33:21].
+
+===
+
+mmdd 1125
+tr yuku
+edit jaya 20141020
+#publish 20141021
+
+*a
+Mengumumkan pembebasan kepada tawanan. [Lukas 4:18]
+*n
+Tiada yang lain selain Yesus yang bisa memberi pembebasan kepada tawanan. Kebebasan sejati datang hanya dari Dia. Itulah kebebasan yang <i>selayaknya diberikan</i>; sebab Sang Anak, yang adalah Pewaris dari segalanya, memiliki hak membebaskan manusia. Orang-orang suci memuliakan keadilan Allah, yang sekarang menjamin keselamatan mereka. Itu adalah kebebasan yang <i>sudah dibeli dengan harga mahal</i>. Kristus memproklamirkannya dengan kuasa-Nya, namun Dia membelinya dengan darah-Nya sendiri. Dia membuatmu bebas namun itu dengan rantai-Nya sendiri. Engkau bersih, sebab Ia memikul bebanmu. Engkau dibebaskan, karena Dia menderita untuk menggantikan kamu. Namun walaupun kamu dibeli dengan harga tinggi, <i>Dia membayarnya tanpa menuntut apa pun dari kamu.</i> Yesus tidak minta persiapan apa pun darimu untuk mendapatkan kebebasan ini. Dia menemukan kita yang sedang berdukacita dalam pakaian kabung dan abu, dan mengatakan pada kita memakai Jubah kebebasan yang indah; Dia menyelamatkan kita seadanya kita, tanpa sedikit pun pertolongan kita atau kebaikan kita. Ketika Yesus melepaskan kita, kebebasan itu <i>berlangsung terus</i>; tiada rantai yang bisa mengikat kita lagi. Biarlah Tuan berbicara kepadaku,”Tawanan, Aku telah membebaskan engkau,” dan itu untuk selamanya. Iblis berencana memperbudak kita, tapi jika Tuhan di pihak kita, kepada siapakah aku harus takut? Dunia, dengan godaannya, berusaha menjebak kita pun, Dia yang bersama kita lebih kuat daripada semua yang melawan kita. Ketika pekerjaan hati kita yang licik mempermalukan dan mengganggu kita pun, Dia yang memulai pekerjaan yang baik dalam kita akan menyelesaikannya sampai akhir [Fil 1:6]. Musuh Allah dan manusia berkumpul dan datang dengan kemarahan yang pekat melawan kita pun, kalau Allah menyatakan kita "Tidak bersalah," siapa lagi yang bisa menuduh kita? Tidaklah lebih bebas seekor rajawali yang naik terbang ke bukit berbatu, dan kemudian melayang tinggi melebihi awan, daripada satu jiwa yang Kristus sudah lepaskan. Jika kita tidak lagi di bawah hukum Taurat, tapi bebas dari kutukannya, mari <i>tunjukkan</i> kebebasan itu dengan melayani Allah dengan syukur dan suka hati. Tuhan, akulah hambaMu; Engkau sudah melepaskan ikatan-ikatanku. [Mazmur 116:16] “Tuhan, apa yang Engkau ingin aku harus perbuat?”[Kis 9:6 KJV]
+
+===
+
+mmdd 1126
+tr yuku
+edit jaya 20141020
+#publish 20141021
+
+*a
+Segala sesuatu yang dijumpai tanganmu untuk dikerjakan, kerjakanlah itu sekuat tenaga. [Pengkhotbah 9:10]
+*n
+"Apapun yang dijumpai tanganmu," mengacu pada tindakan yang <i>memungkinkan</i>. Ada banyak hal yang hati kita temukan untuk lakukan yang tidak pernah kita lakukan. Adanya hal-hal itu dalam hati kita baik adanya, tapi kalau kita mau jadi berguna, kita tidak bisa puas dengan hanya berpikir atau ngomong, kita harus melakukannya dalam kehidupan nyata. Sebuah perbuatan baik lebih berharga daripada seribu teori brilian. Jangan tunggu "kesempatan besar" atau pekerjaan yang jenisnya lain, tapi mari lakukan “hal-hal yang kita temukan” di sekitar kita setiap hari. Kita tidak punya waktu lain untuk hidup. Masa lalu sudah lewat; masa depan belum datang; tiada waktu lain yang kita punya selain "saat ini", maka jangan menunggu sampai kamu tua baru mulai melayani Allah. Berbuahlah sekarang. Layani Allah sekarang, namun berhati-hatilah dalam mengerjakan hal-hal yang kita temukan agar tetap dengan cara yang benar—"kerjakanlah itu sekuat tenaga." Lakukan <i>segera</i>; jangan membuang waktu hidupmu dengan memikirkan apa yang kamu mau lakukan besok, seolah-olah itu bisa menebus pengangguranmu hari ini. Tidak ada yang pernah melayani Tuhan dengan melakukan pekerjaan esok hari. Jika kita memuliakan Kristus dan diberkati, itu melalui pekerjaan yang kita lakukan <i>hari ini</i>. Apapun yang engkau lakukan untuk Kristus, curahkan segala jiwa untuk itu. Jangan berikan Kristus pekerjaan kecil yang ceroboh kali ini dan lagi-lagi di saat lain; melainkan layani Dia dengan seluruh hati, jiwa, dan kekuatanmu.
+*n
+Tapi di manakah kekuatan seorang Kristen? Bukan pada dirinya sendiri, karena beneran dia itu lemah. Kekuatannya terletak pada Tuhan Semesta Alam. Jadi, mari kita cari pertolongan-Nya; mari kita mulai dengan doa dan iman, dan ketika kita telah mengerjakan apa yang “tangan kita jumpai untuk kerjakan,” mari kita menanti Tuhan untuk perkenanan-Nya. Apa yang kita lakukan dengan begini akan terlaksana dengan baik, dan tidak akan berakhir gagal. 
+
+===
+
+mmdd 1127
+tr silvia
+#publish 20141021
+
+*a
+Imam besar Yosua berdiri di hadapan Malaikat TUHAN. [Zakharia 3:1]
+*n
+Di dalam Yosua <i>sang imam besar</i>, kita melihat gambaran dari setiap anak Allah, yang telah dibuat dekat melalui darah Kristus, dan telah diajar melayani dalam hal-hal kudus, dan masuk ke dalam ruang di balik tabir. Yesus telah menjadikan kita imam-imam dan raja-raja bagi Allah, dan bahkan di dalam bumi ini pun kita melaksanakan imamat hidup suci dan pengabdian yang kudus. Tetapi dikatakan bahwa imam besar ini, "<i>berdiri</i> di hadapan Malaikat TUHAN," yaitu, berdiri untuk melayani. Setiap orang percaya yang sejati, posisinya harus selalu seperti ini. Kini, setiap tempat adalah bait Allah, dan umat-Nya dapat dengan sungguh-sungguh melayani Dia di dalam pekerjaan sehari-hari seperti di dalam rumah-Nya. Mereka harus terus "melayani," memberikan pengorbanan rohani dalam doa dan puji-pujian, dan mempersembahkan dirinya sebagai "persembahan yang hidup." Tetapi perhatikanlah di mana Yosua berdiri untuk melayani, <i>di hadapan Malaikat</i> TUHAN. Hanyalah melalui perantara kita orang-orang yang lemah dan cemar dapat menjadi imam bagi Allah. Aku mempersembahkan apa yang aku miliki di depan seorang Utusan, Malaikat perjanjian, Tuhan Yesus; dan melalui Dia doaku yang dibungkus doa-Nya dapat diterima; puji-pujianku menjadi manis sebab dicampurkan dengan mur, dan gaharu, dan cendana [Mazmur 45:8] dari taman milik Kristus sendiri. Jika aku hanya dapat membawakan air mataku kepada-Nya, Ia akan menaruh air mataku bersama air mata-Nya ke dalam botol milik-Nya sendiri karena Ia pernah menangis, dan jika aku hanya dapat membawa keluh kesah kepada-Nya, Ia akan menerimanya sebagai persembahan yang pantas, karena hati-Nya pun pernah dilukai, dan Ia pernah berat mendesah dalam roh-Nya. Diriku sendiri, yang berdiri di dalam Dia, diterima di dalam Kekasih; dan segala pekerjaanku yang cemar, meski pada sejatinya sekedar objek kebencian ilahi, sungguh-sungguh diterima, bahkan Allah mencium keharuman yang manis. Ia puas dan aku diberkati. Maka, lihatlah posisi seorang Kristen — "Imam—berdiri—di hadapan Malaikat TUHAN."
+
+===
+
+mmdd 1128
+tr silvia
+edit yuku 20141021
+#publish 20141021
+
+*a
+Sebab aku sangat bersukacita, ketika beberapa saudara datang dan memberi kesaksian tentang hidupmu dalam kebenaran, sebab memang engkau hidup dalam kebenaran. [3 Yohanes 1:3]
+*n
+Kebenaran berada dalam Gayus, dan Gayus hidup dalam kebenaran. Jika yang pertama tidak terjadi, yang kedua tidak akan pernah terjadi; dan jika yang kedua tidak dikatakan mengenai Gayus, yang pertama akan menjadi sekedar kepura-puraan. Kebenaran harus masuk ke dalam jiwa, menembus dan memenuhinya, kalau tidak kebenaran menjadi tidak bernilai. Doktrin-doktrin yang dipegang sebagai suatu kredo sama seperti roti yang dipegang tangan, yang tidak memberikan gizi pada kerangka tubuh, akan tetapi doktrin yang diterima hati, adalah seperti makanan yang dicerna, yang, dengan asimilasi, menopang dan membangun tubuh. Dalam diri kita kebenaran harus menjadi daya hidup, energi yang aktif, realitas yang tetap tinggal, menjadi bagian dari benang pakan dan benang lungsin diri kita [1]. Jika kebenaran berada <i>dalam diri kita</i>, maka seterusnya kita tidak dapat berpisah dengannya. Seseorang dapat kehilangan pakaiannya atau lengan dan tungkainya, tetapi organ dalamnya vital sehingga tidak dapat dicabut tanpa sepenuhnya kehilangan nyawa. Seorang Kristen dapat mati, tetapi ia tidak dapat menyangkal kebenaran. Nah, aturan alam menyatakan bahwa bagian dalam mempengaruhi bagian luar, seperti cahaya bersinar dari tengah-tengah lentera keluar melewati kacanya: dengan demikian, ketika kebenaran dinyalakan di dalam, cahayanya segera terpancar ke luar dalam hidup dan percakapan. Konon makanan ulat tertentu mempengaruhi warna sutera yang mereka pintal: begitu jugalah gizi yang darinya kodrat batin manusia hidup memberikan semburat pada setiap kata dan tindakan yang keluar darinya. Hidup dalam kebenaran mendatangkan hidup yang jujur, kudus, setia, dan sederhana—yaitu produk alami dari prinsip-prinsip kebenaran yang injil ajarkan, yang mana Roh Allah sanggupkan untuk kita terima. Kita dapat menilai hal-hal yang tersembunyi dari jiwa berdasarkan perwujudannya dalam percakapan seseorang. O Roh maha murah, kami mohon untuk diatur dan diperintah oleh otoritas ilahi-Mu, agar tidak ada kepalsuan atau dosa yang dapat menguasai hati kami, supaya jangan sampai hidup kami di antara umat manusia dipengaruhi niat jahatnya.
+*f
+[1] kedua susunan benang (melintang dan membujur) dalam proses menenun
+
+===
+
+mmdd 1129
+tr wawan
+edit yuku 20141021
+#publish 20141021
+
+*a
+Janganlah engkau pergi kian ke mari menyebarkan fitnah di antara orang-orang sebangsamu … tetapi engkau harus berterus terang menegor orang sesamamu dan janganlah engkau mendatangkan dosa kepada dirimu karena dia. [Imamat 19:16,17]
+*n
+Menyebarkan fitnah memancarkan racun lipat tiga; yang dirugikan adalah si penyebar fitnah, si pendengar, dan orang yang mengenainya fitnah itu dikatakan. Apakah cerita itu benar atau salah, berdasarkan perintah Firman Tuhan ini, kita dilarang untuk menyebarkannya. Nama baik umat Tuhan seharusnya kita pandang sangat berharga dan kita seharusnya merasa malu menolong iblis mencela Gereja dan nama Tuhan. Ada lidah lebih memerlukan kekang daripada pacu. Banyak yang merasa bangga sudah menarik ke bawah saudara-saudara mereka, seakan-akan dengan begitu diri mereka semakin tinggi. Anak-anak Nuh yang bijaksana membentangkan sehelai kain pada ayah mereka, sedangkan anak lain yang memamerkan ketelanjangan ayahnya memperoleh kutukan yang menakutkan. Kita di dalam masa-masa kelam mungkin memerlukan kesabaran dan keheningan dari saudara-saudara kita, marilah kita dengan suka hati melakukannya juga untuk mereka yang memerlukannya sekarang. Hendaklah ini menjadi aturan keluarga kita, dan pengikat pribadi kita — Jangan memfitnah [Titus 3:2].
+*n
+Tetapi Roh Kudus mengizinkan kita untuk mengecam dosa, dan menentukan caranya. Mengecam dosa harus dilakukan dengan menegur saudara kita di hadapannya, bukan dengan mencercanya di belakang mereka. Ini adalah cara yang berani, bersifat persaudaraan, menyerupai Kristus dan di dalam anugerah Allah akan berguna. Apakah dagingmu menciut? Kalau demikian kita harus memberikan penekanan yang lebih besar kepada hati nurani, dan tetap melakukannya, supaya jangan dengan membiarkan dosa pada teman kita, kita sendiri malah menjadi berdosa. Beratus-ratus orang diselamatkan daripada dosa yang besar melalui peringatan-peringatan yang tepat waktu, bijaksana, dan penuh kasih dari para pelayan dan saudara yang setia. Tuhan kita Yesus telah meletakkan bagi kita suatu contoh yang murah hati bagaimana menghadapi teman-teman yang bersalah lewat peringatan-Nya kepada Petrus, lewat doa yang Dia lakukan sebelumnya; dan lewat cara yang lembut saat Dia menanggung lagak penyangkalan Petrus yang membuat Petrus memerlukan peringatan.
+
+===
+
+mmdd 1130
+tr wawan
+edit yuku 20141021
+#publish 20141021
+
+*a
+Lalu kata Amazia kepada abdi Allah itu: "Bagaimana dengan seratus talenta yang telah kuberikan kepada pasukan-pasukan Israel itu?" Jawab abdi Allah itu: "TUHAN dapat memberikan lebih dari pada itu kepadamu!" [2 Tawarikh 25:9]
+*n
+Nampaknya ini adalah sebuah pertanyaan yang sangat penting bagi raja Yehuda, dan mungkin pertanyaan ini terasa lebih berat lagi ketika ditujukan kepada orang-orang Kristen di dalam ujian dan pencobaan. Kehilangan uang tidak pernah menyenangkan, dan ketika hal ini berkaitan dengan prinsip, sering kali kedagingan tidak siap melakukan pengorbanan. “Mengapa harus kehilangan sesuatu yang seharusnya dapat bermanfaat? Apakah kebenaran memang semahal itu? Apa yang akan kita lakukan tanpanya? Ingat akan anak-anak kita, dan penghasilan kita yang sangat minim!” Semua hal ini dan ribuan hal lainnya menggoda orang Kristen untuk mengulurkan tangannya meraih keuntungan yang tidak benar, atau mencegahnya melakukan apa yang diyakini hati nuraninya, saat hal-hal ini berkaitan dengan kehilangan yang besar. Semua orang tidak dapat melihat masalah ini di dalam terang iman; bahkan di antara pengikut-pengikut Yesus sendiri, ajaran “kita harus hidup” cukup ditekankan.
+*n
+<i>TUHAN dapat memberikan lebih dari pada itu kepadamu</i> merupakan jawaban yang sangat memuaskan atas pertanyaan yang menggelisahkan ini. Bapa kita memegang tali dompet kita, kehilangan yang kita alami demi Dia dapat dikembalikan-Nya seribu kali lipat. Kewajiban kita adalah menaati kehendak-Nya, dan kita dapat tinggal yakin bahwa Dia akan memelihara kita. Pada akhirnya Tuhan tidak berhutang kepada siapa pun. Orang-orang kudus tahu bahwa sebutir ketenangan jiwa lebih bernilai ketimbang satu ton emas. Seseorang yang mengenakan mantel usang kepada hati nurani yang baik telah memperoleh kekayaan rohani yang jauh lebih diperlukan dibandingkan apa pun miliknya yang hilang. Senyuman Allah dalam gua bawah tanah itu cukup bagi hati yang benar; kerut dahi Allah dalam sebuah istana itu neraka bagi roh yang baik. Meskipun yang terburuk sampai ke titik terburuk, meskipun segala talenta lenyap, kita tidak kehilangan harta kita, sebab harta kita berada di atas, di tempat Kristus duduk di sebelah kanan Allah. Sementara itu, bahkan sekarang pun, Tuhan membuat orang yang lemah lembut memiliki bumi [Matius 5:5] dan Ia tidak menahan kebaikan dari orang yang hidup tidak bercela. [Mazmur 84:11]
+
 
