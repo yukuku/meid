@@ -63,3 +63,20 @@ wording alternatives in `data/correction-variants.json`. Partial corrections and
 unrecognized wording remain for checking. Reloading recomputes the list; saving
 removes newly corrected findings for that date. Original audit records and review
 progress are retained. Removing a finding does not mark it reviewed.
+
+## Resume on another machine
+
+Clone or pull this repository, then restore the committed progress checkpoint
+once on the new machine before starting the app:
+
+```sh
+mkdir -p review/.local
+cp -n review/progress-checkpoint.sqlite3 review/.local/progress.sqlite3
+python3 review/app.py --open
+```
+
+The checkpoint includes review checks and individually applied findings as of
+October 12, 2026 (five applied findings and no review checks). It is a transfer
+snapshot, not automatic synchronization. The app continues saving new progress
+to the ignored `.local` database. The copy command preserves any progress database
+already on that machine.
